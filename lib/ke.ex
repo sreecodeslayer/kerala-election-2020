@@ -3,8 +3,9 @@ defmodule Ke do
 
   require Logger
 
-  def start() do
+  def start(skip \\ []) do
     dists = get_districts()
+    dists = dists -- skip
 
     Enum.map(dists, fn d ->
       get_full_district(d)
