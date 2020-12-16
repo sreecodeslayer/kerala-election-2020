@@ -23,7 +23,7 @@ defmodule Ke do
     all_urbans = get_urbans_for_dist(d)
 
     all_gps =
-      Enum.map(all_gps, fn gp ->
+      Enum.map(Enum.take(all_gps, 4), fn gp ->
         gp = get_gram_panch(gp)
         :timer.sleep(1000)
         gp
@@ -56,7 +56,7 @@ defmodule Ke do
         ubn
       end)
 
-    d = %{
+    dist = %{
       dist_code: d,
       gram_panchayats: all_gps,
       block_panchayats: all_blocks,
@@ -64,7 +64,7 @@ defmodule Ke do
       urban_bodies: all_urbans
     }
 
-    if save?, do: File.write("#{d}_data.json", Jason.encode!(d)), else: d
+    if save?, do: File.write("data/#{d}_data.json", Jason.encode!(dist)), else: dist
   end
 
   def get_districts do

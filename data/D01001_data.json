@@ -1,0 +1,6842 @@
+{
+  "block_panchayats": [
+    {
+      "body": "ATHIYANOOR",
+      "code": "B01003",
+      "data": [
+        {
+          "lead": {
+            "name": "കെ എസ് സാജന്‍",
+            "num": "4",
+            "party": "NDA",
+            "votes": 2937
+          },
+          "trail": {
+            "name": "ലിവിങ്സ്റ്റണ്‍ ബ്രൈറ്റ് (ബ്രൈറ്റ്)",
+            "num": "2",
+            "party": "Muttacaud",
+            "votes": 2828
+          }
+        },
+        {
+          "lead": {
+            "name": "ജയകുമാരി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3004
+          },
+          "trail": {
+            "name": "വിമല ഡി",
+            "num": "2",
+            "party": "Peringamala",
+            "votes": 2797
+          }
+        },
+        {
+          "lead": {
+            "name": "എം വി മന്‍മോഹന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4209
+          },
+          "trail": {
+            "name": "വട്ടവിള വിജയകുമാര്‍",
+            "num": "2",
+            "party": "Payattuvila",
+            "votes": 2603
+          }
+        },
+        {
+          "lead": {
+            "name": "വിഷ്ണു പ്രശാന്ത് സി എസ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 2586
+          },
+          "trail": {
+            "name": "രഞ്ജിത്ത് കൊല്ലകോണം",
+            "num": "1",
+            "party": "Avanakuzhi",
+            "votes": 2124
+          }
+        },
+        {
+          "lead": {
+            "name": "കൊന്നമൂട് രാജേഷ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 2673
+          },
+          "trail": {
+            "name": "പ്രിയകുമാര്‍ ബി വി",
+            "num": "1",
+            "party": "Kamukincodu",
+            "votes": 2445
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി ബി സുനിതാറാണി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3826
+          },
+          "trail": {
+            "name": "ഇന്ദിരാ മോഹന്‍",
+            "num": "1",
+            "party": "Venpakal",
+            "votes": 2514
+          }
+        },
+        {
+          "lead": {
+            "name": "അശ്വതിചന്ദ്രന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3550
+          },
+          "trail": {
+            "name": "സി സിസിലറ്റ്ബായ്",
+            "num": "3",
+            "party": "Nellimoodu",
+            "votes": 2643
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ.ഡി സുനീഷ്",
+            "num": "5",
+            "party": "NDA",
+            "votes": 2372
+          },
+          "trail": {
+            "name": "ആര്‍ ശിവകുമാര്‍",
+            "num": "4",
+            "party": "Kanjiramkulam",
+            "votes": 2111
+          }
+        },
+        {
+          "lead": {
+            "name": "എ‍‍‍‍‍‍‍‍‍‍‍‍‍ല്‍ റാണി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3451
+          },
+          "trail": {
+            "name": "ആര്‍ ശകുന്തള",
+            "num": "2",
+            "party": "Lourdupuram",
+            "votes": 2365
+          }
+        },
+        {
+          "lead": {
+            "name": "ജെനറ്റ് യേശുദാസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 2981
+          },
+          "trail": {
+            "name": "സിന്ധുഐവിന്‍",
+            "num": "3",
+            "party": "Karumkulam",
+            "votes": 2587
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹെസ്റ്റിന്‍ ഗ്രൈസന്‍ (ജെറി)",
+            "num": "4",
+            "party": "LDF",
+            "votes": 3363
+          },
+          "trail": {
+            "name": "അഡ്വ.അഡോള്‍ഫ് ജി മൊറായിസ്",
+            "num": "1",
+            "party": "Pulluvila",
+            "votes": 2879
+          }
+        },
+        {
+          "lead": {
+            "name": "അജിതകുമാരി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3270
+          },
+          "trail": {
+            "name": "ത്രേസ്യദാസ് എം",
+            "num": "2",
+            "party": "Kottukal",
+            "votes": 2589
+          }
+        },
+        {
+          "lead": {
+            "name": "ജയ നളിനാക്ഷന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 2527
+          },
+          "trail": {
+            "name": "ജയകുമാരി എസ്",
+            "num": "3",
+            "party": "Venganoor",
+            "votes": 1988
+          }
+        }
+      ]
+    },
+    {
+      "body": "CHIRAYINKEEZHU",
+      "code": "B01010",
+      "data": "Could not fetch due to 403 status code"
+    },
+    {
+      "body": "KILIMANOOR",
+      "code": "B01009",
+      "data": [
+        {
+          "lead": {
+            "name": "എ നിഹാസ്",
+            "num": "2",
+            "party": "UDF",
+            "votes": 2686
+          },
+          "trail": {
+            "name": "എം .എ .റഹിം",
+            "num": "5",
+            "party": "Pallikkal",
+            "votes": 2679
+          }
+        },
+        {
+          "lead": {
+            "name": "അഫ്‌സൽ  എസ് ആര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3640
+          },
+          "trail": {
+            "name": "മടവൂർ സലിം",
+            "num": "3",
+            "party": "Madavoor",
+            "votes": 2607
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി ദീപ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3408
+          },
+          "trail": {
+            "name": "സജീന",
+            "num": "3",
+            "party": "Thumbodu",
+            "votes": 3112
+          }
+        },
+        {
+          "lead": {
+            "name": "ബന്‍ഷാ ബഷീർ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 3683
+          },
+          "trail": {
+            "name": "എൻ പ്രകാശ്",
+            "num": "1",
+            "party": "Ponganadu",
+            "votes": 2761
+          }
+        },
+        {
+          "lead": {
+            "name": "ജെ   സജികുമാർ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 3648
+          },
+          "trail": {
+            "name": "എ  എം  റാഫി",
+            "num": "1",
+            "party": "Kilimanoor",
+            "votes": 3170
+          }
+        },
+        {
+          "lead": {
+            "name": "എ ഷീല",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3899
+          },
+          "trail": {
+            "name": "ഷീമ സണ്ണി",
+            "num": "2",
+            "party": "Pazhayakunnummel",
+            "votes": 3042
+          }
+        },
+        {
+          "lead": {
+            "name": "സരളമ്മ എൻ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3610
+          },
+          "trail": {
+            "name": "രമാഭായി അമ്മ",
+            "num": "2",
+            "party": "Manjappara",
+            "votes": 2892
+          }
+        },
+        {
+          "lead": {
+            "name": "ഐഷാ റഷീദ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4068
+          },
+          "trail": {
+            "name": "സുമ എസ്‌",
+            "num": "3",
+            "party": "Pulimath",
+            "votes": 3528
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ.  ശ്രീജ ഉണ്ണികൃഷ്ണൻ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4313
+          },
+          "trail": {
+            "name": "ആതിരാ നായര്‍ എൻ  എസ്‌",
+            "num": "1",
+            "party": "Koduvazhannoor",
+            "votes": 3431
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി  പി  മുരളി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3612
+          },
+          "trail": {
+            "name": "അനന്തു  കൃഷ്​ണന്‍ വി ആര്‍",
+            "num": "1",
+            "party": "Nagaroor",
+            "votes": 3349
+          }
+        },
+        {
+          "lead": {
+            "name": "കുമാരി ശോഭ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 2939
+          },
+          "trail": {
+            "name": "സൂര്യകുമാരി അമ്മ",
+            "num": "4",
+            "party": "Vellalloor",
+            "votes": 2915
+          }
+        },
+        {
+          "lead": {
+            "name": "കവിത ആർ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4027
+          },
+          "trail": {
+            "name": "കവിതാ സുരേഷ്",
+            "num": "2",
+            "party": "Vanchiyoor",
+            "votes": 2510
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രസീത പി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 3602
+          },
+          "trail": {
+            "name": "രേഷ്‌മ  എം എസ്",
+            "num": "3",
+            "party": "Karavaram",
+            "votes": 3567
+          }
+        },
+        {
+          "lead": {
+            "name": "തുളസീധരൻ  പി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3660
+          },
+          "trail": {
+            "name": "ജി സുദേവന്‍",
+            "num": "4",
+            "party": "Navayikulam",
+            "votes": 3498
+          }
+        },
+        {
+          "lead": {
+            "name": "എ  ജെ ജിഹാദ്",
+            "num": "4",
+            "party": "UDF",
+            "votes": 4160
+          },
+          "trail": {
+            "name": "ഇ ജലാൽ",
+            "num": "3",
+            "party": "Thrikkovilvattom",
+            "votes": 3889
+          }
+        }
+      ]
+    },
+    {
+      "body": "NEDUMANGAD",
+      "code": "B01007",
+      "data": [
+        {
+          "lead": {
+            "name": "സുഷ പി.",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3236
+          },
+          "trail": {
+            "name": "ശോഭ",
+            "num": "2",
+            "party": "Panavoor",
+            "votes": 2451
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി. ആര്‍. ചിത്രലേഖ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3634
+          },
+          "trail": {
+            "name": "ബീന ശശി",
+            "num": "2",
+            "party": "Aattukal",
+            "votes": 2894
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീകുമാര്‍ റ്റി.",
+            "num": "3",
+            "party": "OTH",
+            "votes": 3926
+          },
+          "trail": {
+            "name": "ആറാംപള്ളി വിജയരാജ്",
+            "num": "2",
+            "party": "Chullimanoor",
+            "votes": 3645
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹരിലാല്‍ വി. ആര്‍.",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4540
+          },
+          "trail": {
+            "name": "ബാബുരാജ്‌ എൽ",
+            "num": "2",
+            "party": "Aruvikkara",
+            "votes": 3887
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.  വിജയന്‍ നായര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3695
+          },
+          "trail": {
+            "name": "ശോഭനദാസ് ജെ.",
+            "num": "3",
+            "party": "Cheriyakonni",
+            "votes": 3113
+          }
+        },
+        {
+          "lead": {
+            "name": "വി. ശ്രീകണ്ഠന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4808
+          },
+          "trail": {
+            "name": "ആര്‍.സുശീന്ദ്രന്‍",
+            "num": "3",
+            "party": "Kachani",
+            "votes": 3673
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി.ഗീത",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4932
+          },
+          "trail": {
+            "name": "അനിതകുമാരി  എസ്.",
+            "num": "1",
+            "party": "Karakulam",
+            "votes": 3339
+          }
+        },
+        {
+          "lead": {
+            "name": "വി. അമ്പിളി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4233
+          },
+          "trail": {
+            "name": "ബിന്ദു ശ്രീകുമാര്‍",
+            "num": "2",
+            "party": "Maruthoor",
+            "votes": 2426
+          }
+        },
+        {
+          "lead": {
+            "name": "വൈശാഖ് പി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4548
+          },
+          "trail": {
+            "name": "വട്ടപ്പാറ ബാബുരാജ്",
+            "num": "1",
+            "party": "Vattappara",
+            "votes": 3434
+          }
+        },
+        {
+          "lead": {
+            "name": "അനുജ എ. ജി.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3216
+          },
+          "trail": {
+            "name": "ആര്‍. സുഗതകുമാരി",
+            "num": "2",
+            "party": "Nannattukavu",
+            "votes": 2524
+          }
+        },
+        {
+          "lead": {
+            "name": "ബീന അജിത്ത്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3751
+          },
+          "trail": {
+            "name": "ആർ.ശ്രീലത ടീച്ചര്‍",
+            "num": "2",
+            "party": "Vettinadu",
+            "votes": 3338
+          }
+        },
+        {
+          "lead": {
+            "name": "കണ്ണന്‍ വേങ്കവിള",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4083
+          },
+          "trail": {
+            "name": "ജി. മുരളീധരന്‍",
+            "num": "3",
+            "party": "Venkavila",
+            "votes": 2572
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീമതി ആര്‍.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4412
+          },
+          "trail": {
+            "name": "സുമൈറ ആര്‍.",
+            "num": "3",
+            "party": "Thekkada",
+            "votes": 3568
+          }
+        }
+      ]
+    },
+    {
+      "body": "NEMOM",
+      "code": "B01004",
+      "data": [
+        {
+          "lead": {
+            "name": "രേണുക. സി.",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4126
+          },
+          "trail": {
+            "name": "എൽ. സുഗന്ധി",
+            "num": "3",
+            "party": "Puliyarakonam",
+            "votes": 3820
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്. ശോഭനകുമാരി",
+            "num": "2",
+            "party": "UDF",
+            "votes": 4959
+          },
+          "trail": {
+            "name": "സുനിത. ജെ",
+            "num": "3",
+            "party": "Vilappilsala",
+            "votes": 3723
+          }
+        },
+        {
+          "lead": {
+            "name": "ചന്ദ്രന്‍ നായര്‍.എസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4676
+          },
+          "trail": {
+            "name": "എസ് . രാധാകൃഷ്ണന്‍ നായര്‍ (ഉണ്ണി )",
+            "num": "2",
+            "party": "Malayankeezhu",
+            "votes": 3209
+          }
+        },
+        {
+          "lead": {
+            "name": "ശാന്താ പ്രഭാകരന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4734
+          },
+          "trail": {
+            "name": "പ്രിയദര്‍ശിനി . എസ്",
+            "num": "1",
+            "party": "Maranalloor",
+            "votes": 3123
+          }
+        },
+        {
+          "lead": {
+            "name": "രജിത്ത്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4160
+          },
+          "trail": {
+            "name": "എം.  മഹേന്ദ്രൻ",
+            "num": "2",
+            "party": "Ooruttamabalam",
+            "votes": 3477
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി. ആര്‍. അജികുമാര്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 3914
+          },
+          "trail": {
+            "name": "വി.  വിജയകുമാര്‍",
+            "num": "3",
+            "party": "Valiyarathala",
+            "votes": 3388
+          }
+        },
+        {
+          "lead": {
+            "name": "അഖില. എം. ബി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3724
+          },
+          "trail": {
+            "name": "മനുജ സന്തോഷ്",
+            "num": "3",
+            "party": "Balaramapuram",
+            "votes": 3627
+          }
+        },
+        {
+          "lead": {
+            "name": "ആർ. എസ്സ്. വസന്തകുമാരി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4139
+          },
+          "trail": {
+            "name": "ഷീബാ ഹെലൻ. എസ്സ്",
+            "num": "3",
+            "party": "Anthiyoor",
+            "votes": 3078
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ . എസ്. കെ.  പ്രീജ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 5309
+          },
+          "trail": {
+            "name": "ബി . അജിത",
+            "num": "1",
+            "party": "Poonkodu",
+            "votes": 3664
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ  വസുന്ധരൻ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 3469
+          },
+          "trail": {
+            "name": "റാണ. എസ്. സുകുമാര്‍",
+            "num": "4",
+            "party": "Poonkulam",
+            "votes": 3461
+          }
+        },
+        {
+          "lead": {
+            "name": "ആർ . ജയലക്ഷ്മി",
+            "num": "1",
+            "party": "NDA",
+            "votes": 4869
+          },
+          "trail": {
+            "name": "ശ്രീജ അജിത്ത്",
+            "num": "2",
+            "party": "Vellayani",
+            "votes": 4669
+          }
+        },
+        {
+          "lead": {
+            "name": "ലതകുമാരി . വി",
+            "num": "2",
+            "party": "NDA",
+            "votes": 4813
+          },
+          "trail": {
+            "name": "ബി. വിമല ടീച്ചർ",
+            "num": "3",
+            "party": "Pravachambalam",
+            "votes": 4401
+          }
+        },
+        {
+          "lead": {
+            "name": "എ. റ്റി.  മനോജ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4758
+          },
+          "trail": {
+            "name": "ബി. വിക്രമന്‍",
+            "num": "3",
+            "party": "Pallichal",
+            "votes": 3351
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി. സജീനകുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4221
+          },
+          "trail": {
+            "name": "അഡ്വ. ആർ. ആർ. സഞ്ജയ് കുമാർ",
+            "num": "2",
+            "party": "Machel",
+            "votes": 4079
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി. മഞ്ചു",
+            "num": "1",
+            "party": "NDA",
+            "votes": 4013
+          },
+          "trail": {
+            "name": "വിഷ്ണു. സി",
+            "num": "3",
+            "party": "Perukavu",
+            "votes": 3937
+          }
+        },
+        {
+          "lead": {
+            "name": "ആർ. ബി. ബിജുദാസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4127
+          },
+          "trail": {
+            "name": "എഡ് വിൻ  ജോർജ്",
+            "num": "1",
+            "party": "Peyadu",
+            "votes": 3958
+          }
+        }
+      ]
+    },
+    {
+      "body": "PARASSALA",
+      "code": "B01001",
+      "data": [
+        {
+          "lead": {
+            "name": "അനിഷ സന്തോഷ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3889
+          },
+          "trail": {
+            "name": "ബീന കുമാരി ഒ",
+            "num": "3",
+            "party": "Puthankada",
+            "votes": 3135
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷിനി എം",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3487
+          },
+          "trail": {
+            "name": "സി റ്റി അനിത",
+            "num": "1",
+            "party": "Thirupuram",
+            "votes": 3173
+          }
+        },
+        {
+          "lead": {
+            "name": "ജോജി ജെ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4675
+          },
+          "trail": {
+            "name": "എൻ. പി. രഞ്ജിത്ത് റാവു",
+            "num": "2",
+            "party": "Maryapuram",
+            "votes": 3551
+          }
+        },
+        {
+          "lead": {
+            "name": "രാഹില്‍ ആര്‍ നാഥ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 3346
+          },
+          "trail": {
+            "name": "ഗോപാലകൃഷ്ണന്‍ നായര്‍",
+            "num": "1",
+            "party": "Udiyankulangara",
+            "votes": 2618
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്.കെ.ബെന്‍ ഡാര്‍വിന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4945
+          },
+          "trail": {
+            "name": "കൊല്ലിയോട് സത്യനേശൻ",
+            "num": "3",
+            "party": "Nediyamcode",
+            "votes": 4689
+          }
+        },
+        {
+          "lead": {
+            "name": "വൈ. സതീഷ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4486
+          },
+          "trail": {
+            "name": "ആർ. അനില്‍കുമാര്‍",
+            "num": "1",
+            "party": "Parasuvaikkal",
+            "votes": 3938
+          }
+        },
+        {
+          "lead": {
+            "name": "എൽ.വിനുതകുമാരി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 5126
+          },
+          "trail": {
+            "name": "എം. ഷീബാറാണി",
+            "num": "4",
+            "party": "Parassala Town",
+            "votes": 4205
+          }
+        },
+        {
+          "lead": {
+            "name": "ശാലിനി സുരേഷ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4722
+          },
+          "trail": {
+            "name": "സുജലത.എം",
+            "num": "3",
+            "party": "Chenkavila",
+            "votes": 3786
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്. ബി.ആദർശ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4658
+          },
+          "trail": {
+            "name": "ജി. ജോസ് ലാൽ",
+            "num": "2",
+            "party": "Karode",
+            "votes": 4533
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.കുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4752
+          },
+          "trail": {
+            "name": "ജി.സുരേഷ് തമ്പി",
+            "num": "3",
+            "party": "Kulathoor",
+            "votes": 2302
+          }
+        },
+        {
+          "lead": {
+            "name": "സോണിയ ജെ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4314
+          },
+          "trail": {
+            "name": "ജാസ്മിന്‍  സിൽവ",
+            "num": "1",
+            "party": "Pozhiyoor",
+            "votes": 4130
+          }
+        },
+        {
+          "lead": {
+            "name": "അല്‍വേഡിസ. എ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4106
+          },
+          "trail": {
+            "name": "എം.ബെല്‍സി ജയചന്ദ്രൻ",
+            "num": "2",
+            "party": "Poozhikkunnu",
+            "votes": 3911
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്. ആര്യദേവന്‍",
+            "num": "1",
+            "party": "OTH",
+            "votes": 2023
+          },
+          "trail": {
+            "name": "പി.കെ.സാംദേവ്",
+            "num": "5",
+            "party": "Arumanoor",
+            "votes": 1585
+          }
+        },
+        {
+          "lead": {
+            "name": "രേണുക.എ.കെ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 3756
+          },
+          "trail": {
+            "name": "ജുനൈദ ഷംസ്",
+            "num": "1",
+            "party": "Poovar",
+            "votes": 3085
+          }
+        }
+      ]
+    },
+    {
+      "body": "PERUMKADAVILA",
+      "code": "B01002",
+      "data": [
+        {
+          "lead": {
+            "name": "എം.സതീഷ്​​ കുമാര്‍",
+            "num": "5",
+            "party": "LDF",
+            "votes": 4083
+          },
+          "trail": {
+            "name": "എസ്.വിജയചന്ദ്രന്‍",
+            "num": "2",
+            "party": "Kallikkadu",
+            "votes": 3109
+          }
+        },
+        {
+          "lead": {
+            "name": "അമ്പിളി റ്റി പുത്തൂര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3706
+          },
+          "trail": {
+            "name": "ആശാ റോബിന്‍ പാലക്കാട്ട്",
+            "num": "2",
+            "party": "Amboori",
+            "votes": 3568
+          }
+        },
+        {
+          "lead": {
+            "name": "ആനി പ്രസാദ് .ജെ .പി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 5064
+          },
+          "trail": {
+            "name": "ഗീതാ ജോണ്‍",
+            "num": "2",
+            "party": "Vellarada",
+            "votes": 4537
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷൈന്‍ കുമാര്‍ .ജെ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4853
+          },
+          "trail": {
+            "name": "അശോക്.എസ്.ആര്‍",
+            "num": "1",
+            "party": "Kiliyoor",
+            "votes": 3942
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്യാം.എസ്",
+            "num": "3",
+            "party": "UDF",
+            "votes": 4853
+          },
+          "trail": {
+            "name": "എം. വല്‍സലന്‍ നായര്‍",
+            "num": "2",
+            "party": "Panachamoodu",
+            "votes": 3589
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി.വിനോദ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 5335
+          },
+          "trail": {
+            "name": "അജേഷ്",
+            "num": "1",
+            "party": "Kunnathukal",
+            "votes": 3198
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.താണുപിള്ള",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4868
+          },
+          "trail": {
+            "name": "ശിവകുമാര്‍ .പി",
+            "num": "2",
+            "party": "Kollayil",
+            "votes": 2518
+          }
+        },
+        {
+          "lead": {
+            "name": "പത് മകുമാർ.കെ.വി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4844
+          },
+          "trail": {
+            "name": "അഡ്വ: മഞ്ചവിളാകം ജയകുമാര്‍",
+            "num": "1",
+            "party": "Manchavilakom",
+            "votes": 3648
+          }
+        },
+        {
+          "lead": {
+            "name": "എന്‍.റ്റി.ഷീലകുമാരി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3778
+          },
+          "trail": {
+            "name": "അനുജ.സി.എസ്",
+            "num": "1",
+            "party": "Perumkadavila",
+            "votes": 2913
+          }
+        },
+        {
+          "lead": {
+            "name": "ഒ.വസന്തകുമാരി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 5823
+          },
+          "trail": {
+            "name": "ശ്രീലതാദേവി.സി",
+            "num": "3",
+            "party": "Paliyode",
+            "votes": 2595
+          }
+        },
+        {
+          "lead": {
+            "name": "ഐ.ആര്‍.സുനിത",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3878
+          },
+          "trail": {
+            "name": "ഷീജ.എസ്",
+            "num": "2",
+            "party": "Aryankode",
+            "votes": 3147
+          }
+        },
+        {
+          "lead": {
+            "name": "സിമി.ആര്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 5159
+          },
+          "trail": {
+            "name": "ഡീന ബി ടെല്ലാസ്",
+            "num": "1",
+            "party": "Chemboor",
+            "votes": 2657
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി. ലാല്‍കൃഷ്ണന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4682
+          },
+          "trail": {
+            "name": "വട്ടകക്കുഴി സാംകുട്ടി",
+            "num": "3",
+            "party": "Ottasekharamangalam",
+            "votes": 3165
+          }
+        },
+        {
+          "lead": {
+            "name": "മേരിമേബിള്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3235
+          },
+          "trail": {
+            "name": "എസ്.സന്ധ്യാറാണി",
+            "num": "2",
+            "party": "Vazhichal",
+            "votes": 2816
+          }
+        }
+      ]
+    },
+    {
+      "body": "POTHENCODE",
+      "code": "B01005",
+      "data": [
+        {
+          "lead": {
+            "name": "വിജയകുമാരി ജി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3158
+          },
+          "trail": {
+            "name": "ആര്യ ബിനു",
+            "num": "1",
+            "party": "Azhoor",
+            "votes": 2365
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗംഗ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2584
+          },
+          "trail": {
+            "name": "രമ്യ അംബരീഷ്",
+            "num": "2",
+            "party": "Muttappalam",
+            "votes": 2392
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.എസ്.അജിത്ത് കുമാര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3249
+          },
+          "trail": {
+            "name": "വേങ്ങോട് മധു",
+            "num": "2",
+            "party": "Veiloor",
+            "votes": 2783
+          }
+        },
+        {
+          "lead": {
+            "name": "അനീജ കെ.എസ്.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2885
+          },
+          "trail": {
+            "name": "എം.എസ്. ഉദയകുമാരി",
+            "num": "2",
+            "party": "Kudavoor",
+            "votes": 2796
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.എ.ഷഹീന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3212
+          },
+          "trail": {
+            "name": "ഹാഷിം",
+            "num": "6",
+            "party": "Murukkumpuzha",
+            "votes": 2612
+          }
+        },
+        {
+          "lead": {
+            "name": "ആര്‍.അനില്‍കുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4437
+          },
+          "trail": {
+            "name": "റ്റി.സനില്‍ കുമാര്‍",
+            "num": "4",
+            "party": "Manjamala",
+            "votes": 3019
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.ശ്രീകണ്ഠ൯",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4146
+          },
+          "trail": {
+            "name": "രാജീവ്.എസ്",
+            "num": "1",
+            "party": "Pothencode",
+            "votes": 2562
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി.അനിതകുമാരി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4000
+          },
+          "trail": {
+            "name": "ഉഷാകുമാരിഅമ്മ ആര്‍",
+            "num": "2",
+            "party": "Andoorkonam",
+            "votes": 3048
+          }
+        },
+        {
+          "lead": {
+            "name": "പുഷ്പ വിജയന്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 2759
+          },
+          "trail": {
+            "name": "ഉഷ മനോജ്",
+            "num": "1",
+            "party": "Kaniyapuram",
+            "votes": 1913
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷിബില സക്കീര്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3364
+          },
+          "trail": {
+            "name": "സജിന നാദര്‍ഷ",
+            "num": "4",
+            "party": "Maithani",
+            "votes": 2239
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹരിപ്രസാദ്",
+            "num": "5",
+            "party": "LDF",
+            "votes": 3683
+          },
+          "trail": {
+            "name": "കെ.പി.രത്നകുമാര്‍",
+            "num": "4",
+            "party": "Menamkulam",
+            "votes": 1414
+          }
+        },
+        {
+          "lead": {
+            "name": "ജെഫേഴ്സന്‍",
+            "num": "3",
+            "party": "UDF",
+            "votes": 3666
+          },
+          "trail": {
+            "name": "ജാക്സന്‍",
+            "num": "2",
+            "party": "Thumpa",
+            "votes": 3296
+          }
+        },
+        {
+          "lead": {
+            "name": "ജനറ്റ് വിക്ടര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3605
+          },
+          "trail": {
+            "name": "ജ്ഞാനശെല്‍വം",
+            "num": "2",
+            "party": "Puthukurichi",
+            "votes": 3053
+          }
+        }
+      ]
+    },
+    {
+      "body": "VAMANAPURAM",
+      "code": "B01008",
+      "data": [
+        {
+          "lead": {
+            "name": "വേങ്കമല ശ്രീലാല്‍.ബി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4011
+          },
+          "trail": {
+            "name": "വേങ്കമല ആദര്‍ശ്",
+            "num": "1",
+            "party": "Vamanapuram",
+            "votes": 3323
+          }
+        },
+        {
+          "lead": {
+            "name": "മുഹമ്മദ് റാസി (അഡ്വ. എസ്സ്.എം റാസി)",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4307
+          },
+          "trail": {
+            "name": "വാമനപുരം മോഹനചന്ദ്രന്‍",
+            "num": "2",
+            "party": "Kallara",
+            "votes": 3415
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.എസ് ആതിര",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4305
+          },
+          "trail": {
+            "name": "ഒ.ജി പ്രവീണ ടീച്ചർ",
+            "num": "3",
+            "party": "Mithrummala",
+            "votes": 3708
+          }
+        },
+        {
+          "lead": {
+            "name": "പി.ജെ ശ്രീകല",
+            "num": "4",
+            "party": "LDF",
+            "votes": 4051
+          },
+          "trail": {
+            "name": "രഹ്ന ഹസീന്‍",
+            "num": "3",
+            "party": "Pangode",
+            "votes": 3123
+          }
+        },
+        {
+          "lead": {
+            "name": "മഞ്ജു സുനിൽ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4813
+          },
+          "trail": {
+            "name": "ഷീല അജയൻ",
+            "num": "2",
+            "party": "Bharathannoor",
+            "votes": 3472
+          }
+        },
+        {
+          "lead": {
+            "name": "റിയാസ് എ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3854
+          },
+          "trail": {
+            "name": "ബി. പവിത്രകുമാർ",
+            "num": "1",
+            "party": "Edinjar",
+            "votes": 3075
+          }
+        },
+        {
+          "lead": {
+            "name": "ബീന അജ്മൽ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3971
+          },
+          "trail": {
+            "name": "റസിയാ അൻസാർ",
+            "num": "3",
+            "party": "Peringammala",
+            "votes": 3266
+          }
+        },
+        {
+          "lead": {
+            "name": "കോമളം ജി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3660
+          },
+          "trail": {
+            "name": "ലതാ ദിലീപ്",
+            "num": "2",
+            "party": "Palode",
+            "votes": 3624
+          }
+        },
+        {
+          "lead": {
+            "name": "രാധാ ജയപ്രകാശ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3759
+          },
+          "trail": {
+            "name": "ഉഷാ വിജയൻ",
+            "num": "1",
+            "party": "Nanniyode",
+            "votes": 3743
+          }
+        },
+        {
+          "lead": {
+            "name": "വൈ.വി ശോഭകുമാര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 3687
+          },
+          "trail": {
+            "name": "എം.എസ് ബിനു",
+            "num": "1",
+            "party": "Pullampara",
+            "votes": 3044
+          }
+        },
+        {
+          "lead": {
+            "name": "സുഹ്റ സലിം",
+            "num": "3",
+            "party": "UDF",
+            "votes": 4134
+          },
+          "trail": {
+            "name": "സുജാത എസ്",
+            "num": "1",
+            "party": "Thalayal",
+            "votes": 3937
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി. നന്ദു",
+            "num": "2",
+            "party": "LDF",
+            "votes": 5870
+          },
+          "trail": {
+            "name": "ഗോപകുമാര്‍ ആർ",
+            "num": "1",
+            "party": "Pirappancode",
+            "votes": 3522
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ. സജീവ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 4066
+          },
+          "trail": {
+            "name": "പുളിന്താനത്ത് മുരളീകൃഷ്ണന്‍",
+            "num": "3",
+            "party": "Koliyacode",
+            "votes": 2995
+          }
+        },
+        {
+          "lead": {
+            "name": "അസീനാ ബീവി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4707
+          },
+          "trail": {
+            "name": "ജി. പുരുഷോത്തമന്‍ നായർ",
+            "num": "2",
+            "party": "Nellanadu",
+            "votes": 3548
+          }
+        },
+        {
+          "lead": {
+            "name": "അരുണാ സി ബാലന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4097
+          },
+          "trail": {
+            "name": "ജയശ്രീ എസ്",
+            "num": "2",
+            "party": "Manikkamangalam",
+            "votes": 3694
+          }
+        }
+      ]
+    },
+    {
+      "body": "VARKALA",
+      "code": "B01011",
+      "data": [
+        {
+          "lead": {
+            "name": "സുനിത എസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3425
+          },
+          "trail": {
+            "name": "അബ്സാ ബീവി",
+            "num": "1",
+            "party": "Kappil",
+            "votes": 2363
+          }
+        },
+        {
+          "lead": {
+            "name": "ലെനിന്‍രാജ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3740
+          },
+          "trail": {
+            "name": "സതീശന്‍",
+            "num": "4",
+            "party": "Elakamon",
+            "votes": 2277
+          }
+        },
+        {
+          "lead": {
+            "name": "ബെന്നി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 2735
+          },
+          "trail": {
+            "name": "ജിഷ്ണു",
+            "num": "1",
+            "party": "Palayamkunnu",
+            "votes": 2313
+          }
+        },
+        {
+          "lead": {
+            "name": "സുശീലന്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 3252
+          },
+          "trail": {
+            "name": "ദേവദാസ്",
+            "num": "1",
+            "party": "Chemmaruthi",
+            "votes": 2944
+          }
+        },
+        {
+          "lead": {
+            "name": "ജസ്സി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 2858
+          },
+          "trail": {
+            "name": "ശ്രീലേഖ കുറുപ്പ്",
+            "num": "3",
+            "party": "Muttappalam",
+            "votes": 2811
+          }
+        },
+        {
+          "lead": {
+            "name": "സ്മിത",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3258
+          },
+          "trail": {
+            "name": "പ്രഭ",
+            "num": "2",
+            "party": "Vadasserikonam",
+            "votes": 2483
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രദീപ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 2753
+          },
+          "trail": {
+            "name": "ജയകുമാര്‍",
+            "num": "1",
+            "party": "Ottoor",
+            "votes": 2210
+          }
+        },
+        {
+          "lead": {
+            "name": "കുഞ്ഞുമോള്‍ ജി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3586
+          },
+          "trail": {
+            "name": "സിന്ധു",
+            "num": "3",
+            "party": "Manamboor",
+            "votes": 2196
+          }
+        },
+        {
+          "lead": {
+            "name": "അക്ബര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3160
+          },
+          "trail": {
+            "name": "സന്തോഷ്",
+            "num": "2",
+            "party": "Kavalayoor",
+            "votes": 2029
+          }
+        },
+        {
+          "lead": {
+            "name": "രജനി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3089
+          },
+          "trail": {
+            "name": "രാധ",
+            "num": "2",
+            "party": "Cherunniyoor",
+            "votes": 2773
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷാലിബ് വി എസ്",
+            "num": "2",
+            "party": "UDF",
+            "votes": 2507
+          },
+          "trail": {
+            "name": "സബീന",
+            "num": "3",
+            "party": "Vennicode",
+            "votes": 2104
+          }
+        },
+        {
+          "lead": {
+            "name": "സുറുമി",
+            "num": "2",
+            "party": "UDF",
+            "votes": 2969
+          },
+          "trail": {
+            "name": "വി റീന",
+            "num": "4",
+            "party": "Vettoor",
+            "votes": 2785
+          }
+        },
+        {
+          "lead": {
+            "name": "സീനത്ത്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3917
+          },
+          "trail": {
+            "name": "അനിത എസ്",
+            "num": "1",
+            "party": "Edava",
+            "votes": 2803
+          }
+        }
+      ]
+    },
+    {
+      "body": "VELLANAD",
+      "code": "B01006",
+      "data": [
+        {
+          "lead": {
+            "name": "എസ്.എൽ.കൃഷ്ണകുമാരി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 3848
+          },
+          "trail": {
+            "name": "ശൈലജ ആർ.നായർ",
+            "num": "3",
+            "party": "Vithura",
+            "votes": 2965
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീലത എൽ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3832
+          },
+          "trail": {
+            "name": "ശകുന്തള  ഒ",
+            "num": "2",
+            "party": "Anappara",
+            "votes": 3130
+          }
+        },
+        {
+          "lead": {
+            "name": "പറണ്ടോട് എ.എം.ഷാജി",
+            "num": "4",
+            "party": "UDF",
+            "votes": 3109
+          },
+          "trail": {
+            "name": "ആര്‍.മോഹനന്‍നായര്‍",
+            "num": "3",
+            "party": "Parandode",
+            "votes": 3074
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.ഹരിസുതന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4271
+          },
+          "trail": {
+            "name": "എൻ.ജയമോഹനന്‍",
+            "num": "1",
+            "party": "Aryanad",
+            "votes": 3217
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി.സുനില്‍കുമാര്‍",
+            "num": "3",
+            "party": "UDF",
+            "votes": 3313
+          },
+          "trail": {
+            "name": "കെ.പി.അജയന്‍",
+            "num": "1",
+            "party": "Kuttichal",
+            "votes": 3001
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.രമേഷ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4043
+          },
+          "trail": {
+            "name": "സന്തോഷ് കളത്തിൽ",
+            "num": "2",
+            "party": "Pezhummoodu",
+            "votes": 2669
+          }
+        },
+        {
+          "lead": {
+            "name": "സി.വിജയന്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 5101
+          },
+          "trail": {
+            "name": "എസ്.വിജയദാസ്",
+            "num": "2",
+            "party": "Veeranakavu",
+            "votes": 3660
+          }
+        },
+        {
+          "lead": {
+            "name": "സരള ടീച്ചർ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 3803
+          },
+          "trail": {
+            "name": "അനസൂയ കെ",
+            "num": "1",
+            "party": "Amachal",
+            "votes": 3454
+          }
+        },
+        {
+          "lead": {
+            "name": "സുനിത വി.ജെ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 3979
+          },
+          "trail": {
+            "name": "അനിത സി.എസ്",
+            "num": "2",
+            "party": "Kattakada",
+            "votes": 3513
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീക്കുട്ടി സതീഷ്",
+            "num": "4",
+            "party": "UDF",
+            "votes": 4806
+          },
+          "trail": {
+            "name": "മേരിസ്റ്റെല്ല എല്‍",
+            "num": "1",
+            "party": "Killi",
+            "votes": 4536
+          }
+        },
+        {
+          "lead": {
+            "name": "ഉഷാവിൻസെൻറ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 4720
+          },
+          "trail": {
+            "name": "ഷീബ എസ്",
+            "num": "3",
+            "party": "Poovachal",
+            "votes": 4247
+          }
+        },
+        {
+          "lead": {
+            "name": "പി.കമലരാജ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3319
+          },
+          "trail": {
+            "name": "പുനലാൽ രാജമണി",
+            "num": "3",
+            "party": "Uriyacodu",
+            "votes": 3145
+          }
+        },
+        {
+          "lead": {
+            "name": "ഇന്ദുലേഖ എസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 4110
+          },
+          "trail": {
+            "name": "ഗീതാകുമാരി എസ്",
+            "num": "2",
+            "party": "Vellanadu",
+            "votes": 3722
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വക്കേറ്റ് എ.റഹിം",
+            "num": "3",
+            "party": "LDF",
+            "votes": 4401
+          },
+          "trail": {
+            "name": "പീരുമുഹമ്മദ് എച്ച്",
+            "num": "1",
+            "party": "Kulappada",
+            "votes": 2868
+          }
+        },
+        {
+          "lead": {
+            "name": "കണ്ണന്‍ എസ്.ലാൽ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 4641
+          },
+          "trail": {
+            "name": "ജി.ആർ.അജികുമാര്‍",
+            "num": "1",
+            "party": "Chakrapanipuram",
+            "votes": 3498
+          }
+        },
+        {
+          "lead": {
+            "name": "ഫര്‍സാന എസ്.എസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 3732
+          },
+          "trail": {
+            "name": "സജിത എം.പി",
+            "num": "4",
+            "party": "Tholicode",
+            "votes": 3570
+          }
+        }
+      ]
+    }
+  ],
+  "dist_code": "D01001",
+  "district_panchayats": [
+    {
+      "body": "THIRUVANANTHAPURAM",
+      "code": "D01001",
+      "data": [
+        {
+          "lead": {
+            "name": "ഗീതാനസീർ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 25012
+          },
+          "place": "Chemmaruthy",
+          "trail": {
+            "name": "ഷിജി രാധാക്യഷ്ണൻ",
+            "num": "3",
+            "votes": 15692
+          }
+        },
+        {
+          "lead": {
+            "name": "ബേബി സുധ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 25143
+          },
+          "place": "Navaikulam",
+          "trail": {
+            "name": "സുനിതാബീഗം",
+            "num": "4",
+            "votes": 18190
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗിരികൃഷ്ണന്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 26614
+          },
+          "place": "Kilimanoor",
+          "trail": {
+            "name": "എസ്. സുനില്‍ കുമാര്‍",
+            "num": "4",
+            "votes": 23694
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്‍ഷ ബി.ഷറഫ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 21663
+          },
+          "place": "Kallara",
+          "trail": {
+            "name": "ഡോ.വി.എന്‍.സുഷമ",
+            "num": "4",
+            "votes": 15654
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീലാകുമാരി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 25799
+          },
+          "place": "Venjaramoodu",
+          "trail": {
+            "name": "ദീപ അനിൽ",
+            "num": "2",
+            "votes": 21407
+          }
+        },
+        {
+          "lead": {
+            "name": "സുനിത.എസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 22418
+          },
+          "place": "Anad",
+          "trail": {
+            "name": "സാദിയ",
+            "num": "2",
+            "votes": 18022
+          }
+        },
+        {
+          "lead": {
+            "name": "സോഫി തോമസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 18172
+          },
+          "place": "Palode",
+          "trail": {
+            "name": "റീജാഷെനിൽ",
+            "num": "4",
+            "votes": 17948
+          }
+        },
+        {
+          "lead": {
+            "name": "മിനി.എ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 24047
+          },
+          "place": "Aryanadu",
+          "trail": {
+            "name": "സിതാര രവീന്ദ്രൻ",
+            "num": "3",
+            "votes": 21314
+          }
+        },
+        {
+          "lead": {
+            "name": "വെളളനാട് ശശി",
+            "num": "5",
+            "party": "UDF",
+            "votes": 19068
+          },
+          "place": "Vellanadu",
+          "trail": {
+            "name": "ആർ.രാജ്മോഹന്‍",
+            "num": "4",
+            "votes": 18858
+          }
+        },
+        {
+          "lead": {
+            "name": "രാധിക ടീച്ചർ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 26403
+          },
+          "place": "Poovachal",
+          "trail": {
+            "name": "സൗമ്യ  റോബിൻ.ബി",
+            "num": "3",
+            "votes": 22942
+          }
+        },
+        {
+          "lead": {
+            "name": "അന്‍സജിത റസ്സൽ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 25598
+          },
+          "place": "Vellarada",
+          "trail": {
+            "name": "സഹായദാസ്",
+            "num": "3",
+            "votes": 18129
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.എസ്.ബിനു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 26751
+          },
+          "place": "Kunnathukal",
+          "trail": {
+            "name": "ബി.എൽ.അജേഷ്",
+            "num": "1",
+            "votes": 17363
+          }
+        },
+        {
+          "lead": {
+            "name": "സലൂജ.വി.ആര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 26624
+          },
+          "place": "Parassala",
+          "trail": {
+            "name": "എസ് . ഉഷാകുമാരി",
+            "num": "2",
+            "votes": 22199
+          }
+        },
+        {
+          "lead": {
+            "name": "സൂര്യ.എസ്.പ്രേം",
+            "num": "3",
+            "party": "LDF",
+            "votes": 22283
+          },
+          "place": "Maryapuram",
+          "trail": {
+            "name": "ലാലി.സി",
+            "num": "1",
+            "votes": 21685
+          }
+        },
+        {
+          "lead": {
+            "name": "സി.കെ.വത്സലകുമാര്‍",
+            "num": "3",
+            "party": "UDF",
+            "votes": 23775
+          },
+          "place": "Kanjiramkulam",
+          "trail": {
+            "name": "വി.ബി.രാജന്‍",
+            "num": "2",
+            "votes": 20923
+          }
+        },
+        {
+          "lead": {
+            "name": "വിനോദ്",
+            "num": "2",
+            "party": "UDF",
+            "votes": 22211
+          },
+          "place": "Balaramapuram",
+          "trail": {
+            "name": "പി.രാജേന്ദ്രകുമാര്‍",
+            "num": "1",
+            "votes": 20551
+          }
+        },
+        {
+          "lead": {
+            "name": "ഭഗത് റൂഫസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 25609
+          },
+          "place": "Venganoor",
+          "trail": {
+            "name": "എസ്.സുരേഷ്",
+            "num": "5",
+            "votes": 23545
+          }
+        },
+        {
+          "lead": {
+            "name": "വിളപ്പിൽ രാധാകൃഷ്ണന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 23991
+          },
+          "place": "Pallichal",
+          "trail": {
+            "name": "എം.ആർ.ബൈജു",
+            "num": "2",
+            "votes": 23389
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി.സുരേഷ്​​കുമാര്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 20643
+          },
+          "place": "Malayinkeezh",
+          "trail": {
+            "name": "ഏ.കെ.ശശി",
+            "num": "1",
+            "votes": 15970
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.വി.ശ്രീകാന്ത്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 23644
+          },
+          "place": "Karakulam",
+          "trail": {
+            "name": "തേക്കട  അനില്‍കുമാര്‍",
+            "num": "1",
+            "votes": 18795
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.വേണുഗോപാലന്‍ നായര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 17991
+          },
+          "place": "Mudakkal",
+          "trail": {
+            "name": "ബാഹുല്‍ കൃഷ്ണ​",
+            "num": "3",
+            "votes": 14788
+          }
+        },
+        {
+          "lead": {
+            "name": "ഉനൈസ അൻസാരി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 18435
+          },
+          "place": "Kaniyapuram",
+          "trail": {
+            "name": "ചാന്നാങ്കര എം.പി.ഷൈല",
+            "num": "3",
+            "votes": 13063
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.ജലീല്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 15166
+          },
+          "place": "Murukkumpuzha",
+          "trail": {
+            "name": "എം.മുനീര്‍",
+            "num": "3",
+            "votes": 13116
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷൈലജാ ബീഗം",
+            "num": "3",
+            "party": "LDF",
+            "votes": 14938
+          },
+          "place": "Kizhuvilam",
+          "trail": {
+            "name": "ആർ.കെ.രാധാമണി ടീച്ചർ",
+            "num": "1",
+            "votes": 13736
+          }
+        },
+        {
+          "lead": {
+            "name": "ആർ.സുഭാഷ്",
+            "num": "5",
+            "party": "LDF",
+            "votes": 15374
+          },
+          "place": "Chirayinkeezh",
+          "trail": {
+            "name": "എം.ജെ.ആനന്ദ്",
+            "num": "3",
+            "votes": 14642
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.പ്രിയദര്‍ശിനി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 22181
+          },
+          "place": "Manamboor",
+          "trail": {
+            "name": "ഷീലാ റോബിന്‍",
+            "num": "2",
+            "votes": 16096
+          }
+        }
+      ]
+    }
+  ],
+  "gram_panchayats": [
+    {
+      "body": "AMBOORI",
+      "code": "G01014",
+      "data": [
+        {
+          "lead": {
+            "name": "തോമസ് മംഗലശേരി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 628
+          },
+          "trail": {
+            "name": "മേരിക്കുട്ടി കുര്യക്കോസ്",
+            "num": "2",
+            "party": "MAYAM",
+            "votes": 246
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്ദു ബിനു",
+            "num": "1",
+            "party": "UDF",
+            "votes": 417
+          },
+          "trail": {
+            "name": "സുജ അജയൻ",
+            "num": "4",
+            "party": "PANCHAYAT OFFICE WARD",
+            "votes": 297
+          }
+        },
+        {
+          "lead": {
+            "name": "അഖില  ഷിബു",
+            "num": "1",
+            "party": "OTH",
+            "votes": 367
+          },
+          "trail": {
+            "name": "രമ്യ ബാബു",
+            "num": "3",
+            "party": "THODUMALA",
+            "votes": 290
+          }
+        },
+        {
+          "lead": {
+            "name": "ലാലി ജോണ്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 486
+          },
+          "trail": {
+            "name": "ഏലിയാമ്മ (സരിത സെബാസ്ററ്യൻ)",
+            "num": "1",
+            "party": "AMBOORI",
+            "votes": 313
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്ദു ബിനോയി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 317
+          },
+          "trail": {
+            "name": "ഷിജി വര്‍ഗീസ്",
+            "num": "3",
+            "party": "KOOTTAPPU",
+            "votes": 298
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.നിസ്സാര്‍  ( നൗഷാദ് )",
+            "num": "1",
+            "party": "LDF",
+            "votes": 437
+          },
+          "trail": {
+            "name": "കൊണ്ടകെട്ടി  സുരേന്ദ്രന്‍",
+            "num": "4",
+            "party": "THEKKUPARA",
+            "votes": 359
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷാജി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 345
+          },
+          "trail": {
+            "name": "പി  രാജു",
+            "num": "1",
+            "party": "KANNANNOOR",
+            "votes": 253
+          }
+        },
+        {
+          "lead": {
+            "name": "അജികുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 670
+          },
+          "trail": {
+            "name": "പി എസ്‌    നൈനാന്‍",
+            "num": "2",
+            "party": "KUDAPPANAMOODU",
+            "votes": 325
+          }
+        },
+        {
+          "lead": {
+            "name": "ലാലി സിബി",
+            "num": "2",
+            "party": "UDF",
+            "votes": 404
+          },
+          "trail": {
+            "name": "മിനി ജോയി",
+            "num": "1",
+            "party": "THUDIYAMKONAM",
+            "votes": 319
+          }
+        },
+        {
+          "lead": {
+            "name": "സുജ മോഹനൻ",
+            "num": "3",
+            "party": "UDF",
+            "votes": 347
+          },
+          "trail": {
+            "name": "ലീന രാജേഷ്‌",
+            "num": "2",
+            "party": "PURUTHIPPARA",
+            "votes": 229
+          }
+        },
+        {
+          "lead": {
+            "name": "വല്‍സല രാജു",
+            "num": "3",
+            "party": "UDF",
+            "votes": 483
+          },
+          "trail": {
+            "name": "അനിത മധു",
+            "num": "1",
+            "party": "CHIRAYAKKODU",
+            "votes": 288
+          }
+        },
+        {
+          "lead": {
+            "name": "മോഹനദാസ് ലക്ഷ്മണന്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 412
+          },
+          "trail": {
+            "name": "ബാബു  ജോസഫ്",
+            "num": "1",
+            "party": "KUTTAMALA",
+            "votes": 348
+          }
+        },
+        {
+          "lead": {
+            "name": "എൻ  ജയന്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 491
+          },
+          "trail": {
+            "name": "സുരേഷ്​​ കുമാര്‍ ബി",
+            "num": "2",
+            "party": "KANDAMTHITTA",
+            "votes": 234
+          }
+        }
+      ]
+    },
+    {
+      "body": "ANADU",
+      "code": "G01043",
+      "data": [
+        {
+          "lead": {
+            "name": "വേങ്കവിള സജി",
+            "num": "4",
+            "party": "LDF",
+            "votes": 399
+          },
+          "trail": {
+            "name": "ഷിബു വി",
+            "num": "3",
+            "party": "THEERTHAMKARA",
+            "votes": 352
+          }
+        },
+        {
+          "lead": {
+            "name": "അശ്വതി രഞ്ജിത്ത്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 365
+          },
+          "trail": {
+            "name": "നിഷ എൻ  ബി",
+            "num": "3",
+            "party": "CHELA",
+            "votes": 310
+          }
+        },
+        {
+          "lead": {
+            "name": "സജിം കൊല്ല",
+            "num": "5",
+            "party": "LDF",
+            "votes": 472
+          },
+          "trail": {
+            "name": "കല്ലിയോട് ഭുവനേന്ദ്രന്‍",
+            "num": "3",
+            "party": "KALLIYODE",
+            "votes": 288
+          }
+        },
+        {
+          "lead": {
+            "name": "എന്‍ ശ്രീകല",
+            "num": "3",
+            "party": "LDF",
+            "votes": 582
+          },
+          "trail": {
+            "name": "ബീനാമോൾ എസ്‌",
+            "num": "1",
+            "party": "ERYANADE",
+            "votes": 199
+          }
+        },
+        {
+          "lead": {
+            "name": "കവിത പ്രവീൺ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 324
+          },
+          "trail": {
+            "name": "അംബിക",
+            "num": "2",
+            "party": "CHANDRAMANGALAM",
+            "votes": 279
+          }
+        },
+        {
+          "lead": {
+            "name": "അജയകുമാര്‍ ആർ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 368
+          },
+          "trail": {
+            "name": "സി  രാജേഷ്",
+            "num": "3",
+            "party": "ANADU TOWN",
+            "votes": 347
+          }
+        },
+        {
+          "lead": {
+            "name": "എ ബി കെ നാസര്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 452
+          },
+          "trail": {
+            "name": "ഷിഹാബ്‌  ചുള്ളിമാനൂർ",
+            "num": "5",
+            "party": "CHERUVELI",
+            "votes": 317
+          }
+        },
+        {
+          "lead": {
+            "name": "റീന എസ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 484
+          },
+          "trail": {
+            "name": "ഷീജാബീവി എസ്",
+            "num": "3",
+            "party": "VANCHUVAM",
+            "votes": 351
+          }
+        },
+        {
+          "lead": {
+            "name": "പാണയം നിസാർ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 592
+          },
+          "trail": {
+            "name": "ഷീല എസ്",
+            "num": "4",
+            "party": "MANNOORKONAM",
+            "votes": 534
+          }
+        },
+        {
+          "lead": {
+            "name": "S സുമയ്യ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 624
+          },
+          "trail": {
+            "name": "ഷീല.ആര്‍",
+            "num": "2",
+            "party": "THAZHNNAMALA",
+            "votes": 423
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീബാ ബീവി",
+            "num": "2",
+            "party": "UDF",
+            "votes": 436
+          },
+          "trail": {
+            "name": "ഷജീല എല്‍",
+            "num": "1",
+            "party": "CHULLIMANOOR",
+            "votes": 249
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് ഗോപാലകൃഷ്ണന്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 530
+          },
+          "trail": {
+            "name": "സുനില്‍രാജ് ബി വി",
+            "num": "3",
+            "party": "NETTARAKONAM",
+            "votes": 524
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷൈലജ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 560
+          },
+          "trail": {
+            "name": "T സിന്ധു",
+            "num": "3",
+            "party": "MANDAPAM",
+            "votes": 375
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ ലീലാമ്മ ടീച്ചർ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 476
+          },
+          "trail": {
+            "name": "ആർ  ജെ മഞ്ചു",
+            "num": "2",
+            "party": "PUTHANPALAM",
+            "votes": 363
+          }
+        },
+        {
+          "lead": {
+            "name": "K ശേഖരന്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 371
+          },
+          "trail": {
+            "name": "ജി ഷിബു",
+            "num": "3",
+            "party": "THIRICHITTOOR",
+            "votes": 316
+          }
+        },
+        {
+          "lead": {
+            "name": "കൊല്ലങ്കാവ് ജി അനില്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 535
+          },
+          "trail": {
+            "name": "ആർ ആർ ഷാജി",
+            "num": "4",
+            "party": "VETTAMPALLY",
+            "votes": 387
+          }
+        },
+        {
+          "lead": {
+            "name": "A S ഷീജ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 547
+          },
+          "trail": {
+            "name": "രമണി എസ് കെ",
+            "num": "2",
+            "party": "VENKAVILA",
+            "votes": 489
+          }
+        },
+        {
+          "lead": {
+            "name": "ആനന്ദവല്ലി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 355
+          },
+          "trail": {
+            "name": "ദിവ്യ ആ൪ എസ്",
+            "num": "2",
+            "party": "THANNIMOODE",
+            "votes": 318
+          }
+        },
+        {
+          "lead": {
+            "name": "ഇരിഞ്ചയം  സനല്‍",
+            "num": "5",
+            "party": "LDF",
+            "votes": 452
+          },
+          "trail": {
+            "name": "രജി",
+            "num": "3",
+            "party": "IRINJAYAM",
+            "votes": 403
+          }
+        }
+      ]
+    },
+    {
+      "body": "ANCHUTHENGU",
+      "code": "G01061",
+      "data": [
+        {
+          "lead": {
+            "name": "വി. ലൈജു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 310
+          },
+          "trail": {
+            "name": "നൗഷാദ്",
+            "num": "1",
+            "party": "KAYIKKARA  ASANSMARAKAM",
+            "votes": 201
+          }
+        },
+        {
+          "lead": {
+            "name": "സരിത ബിജു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 268
+          },
+          "trail": {
+            "name": "രാഗിണി സജിലാല്‍",
+            "num": "1",
+            "party": "NEDUGANDA",
+            "votes": 222
+          }
+        },
+        {
+          "lead": {
+            "name": "ദിവ്യ ഗണേഷ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 237
+          },
+          "trail": {
+            "name": "ശ്യാമ പ്രകാശ്‌",
+            "num": "3",
+            "party": "KAYIKKARA",
+            "votes": 197
+          }
+        },
+        {
+          "lead": {
+            "name": "സജി സുന്ദര്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 402
+          },
+          "trail": {
+            "name": "നെല്‍സണ്‍ ഐസക്ക്",
+            "num": "2",
+            "party": "KAPALEESWARAM",
+            "votes": 386
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി.എന്‍. സൈജുരാജ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 470
+          },
+          "trail": {
+            "name": "അജയകുമാര്‍",
+            "num": "1",
+            "party": "MUDIPPURA",
+            "votes": 327
+          }
+        },
+        {
+          "lead": {
+            "name": "ലിജ ബോസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 710
+          },
+          "trail": {
+            "name": "റീറ്റ സജു",
+            "num": "3",
+            "party": "PUTHEN NADA",
+            "votes": 199
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡോണ്‍ ബോസ്കോ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 314
+          },
+          "trail": {
+            "name": "ഷെറിന്‍ ജോണ്‍",
+            "num": "5",
+            "party": "VALIYAPALLI",
+            "votes": 272
+          }
+        },
+        {
+          "lead": {
+            "name": "സ്റ്റീഫന്‍ ലൂവിസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 536
+          },
+          "trail": {
+            "name": "ഔസേഫ് ആന്റണി",
+            "num": "1",
+            "party": "POOTHURA",
+            "votes": 509
+          }
+        },
+        {
+          "lead": {
+            "name": "സോഫിയ ഞ്ജാനദാസ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 444
+          },
+          "trail": {
+            "name": "ഡോളി ജോയി",
+            "num": "1",
+            "party": "CONVENT",
+            "votes": 300
+          }
+        },
+        {
+          "lead": {
+            "name": "ഫ്ളോറന്‍സ് ജോണ്‍സണ്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 555
+          },
+          "trail": {
+            "name": "ക്രിസ്റ്റി സൈമൺ",
+            "num": "1",
+            "party": "PANCHAYAT OFFICE",
+            "votes": 417
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീമ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 486
+          },
+          "trail": {
+            "name": "മേരി എല്‍ബിന്‍",
+            "num": "1",
+            "party": "ANCHUTHENGU JUNCTION",
+            "votes": 445
+          }
+        },
+        {
+          "lead": {
+            "name": "യേശുദാസന്‍ സ്റ്റീഫന്‍",
+            "num": "4",
+            "party": "UDF",
+            "votes": 293
+          },
+          "trail": {
+            "name": "എസ്. ക്രിസ്റ്റഫർ",
+            "num": "1",
+            "party": "MANNAKKULAM",
+            "votes": 211
+          }
+        },
+        {
+          "lead": {
+            "name": "ജൂഡ് ജോര്‍ജ്ജ്",
+            "num": "3",
+            "party": "UDF",
+            "votes": 364
+          },
+          "trail": {
+            "name": "ജസ്റ്റിൻ ആൽബി",
+            "num": "2",
+            "party": "MUNDUTHURA",
+            "votes": 246
+          }
+        },
+        {
+          "lead": {
+            "name": "മിനി ജൂഡ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 278
+          },
+          "trail": {
+            "name": "മേഴ്സി",
+            "num": "2",
+            "party": "MAMBALLI",
+            "votes": 231
+          }
+        }
+      ]
+    },
+    {
+      "body": "ANDOORKONAM",
+      "code": "G01027",
+      "data": [
+        {
+          "lead": {
+            "name": "അനൂജ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 325
+          },
+          "trail": {
+            "name": "ജയന്തിമനോജ്",
+            "num": "2",
+            "party": "KARICHARA",
+            "votes": 234
+          }
+        },
+        {
+          "lead": {
+            "name": "അർച്ചന ആർ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 543
+          },
+          "trail": {
+            "name": "ശ്രീലത",
+            "num": "2",
+            "party": "VELLOOR",
+            "votes": 323
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹരി",
+            "num": "5",
+            "party": "LDF",
+            "votes": 531
+          },
+          "trail": {
+            "name": "എസ് .അബ്ദുള്‍ റഷീദ്",
+            "num": "2",
+            "party": "KOITHUR KONAM",
+            "votes": 318
+          }
+        },
+        {
+          "lead": {
+            "name": "എ എസ് വിജയ കുമാർ (ഒ.കെ)",
+            "num": "2",
+            "party": "NDA",
+            "votes": 475
+          },
+          "trail": {
+            "name": "ഷെറിൻ. സി. തെറ്റിച്ചിറ",
+            "num": "4",
+            "party": "THIRUVELLOOR",
+            "votes": 226
+          }
+        },
+        {
+          "lead": {
+            "name": "വൈഷ്ണ എം പി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 445
+          },
+          "trail": {
+            "name": "രാകേന്ദു ആർ ബി",
+            "num": "2",
+            "party": "ANDOORKONAM",
+            "votes": 341
+          }
+        },
+        {
+          "lead": {
+            "name": "അനില്‍ കുമാര്‍  പി",
+            "num": "1",
+            "party": "NDA",
+            "votes": 569
+          },
+          "trail": {
+            "name": "ചന്ദ്രശേഖരന്‍ നായര്‍",
+            "num": "2",
+            "party": "KEEZHAVOOR",
+            "votes": 307
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ. എ.ആർ. റഫീഖ്",
+            "num": "9",
+            "party": "LDF",
+            "votes": 382
+          },
+          "trail": {
+            "name": "പറമ്പിൽപാലം സഫീർ",
+            "num": "8",
+            "party": "PARAMBILPALAM",
+            "votes": 254
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹസീന അന്‍സര്‍",
+            "num": "6",
+            "party": "OTH",
+            "votes": 379
+          },
+          "trail": {
+            "name": "മുനീറ അൻസർ",
+            "num": "2",
+            "party": "PAICHIRA",
+            "votes": 378
+          }
+        },
+        {
+          "lead": {
+            "name": "സിത്താര ഗണേഷ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 375
+          },
+          "trail": {
+            "name": "ജുമൈലാ ബീവി",
+            "num": "1",
+            "party": "PALLICHA VEEDU",
+            "votes": 315
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ സോമൻ",
+            "num": "4",
+            "party": "LDF",
+            "votes": 446
+          },
+          "trail": {
+            "name": "വെട്ടുറോഡ്  സലാം",
+            "num": "2",
+            "party": "KUNNINAKAM",
+            "votes": 270
+          }
+        },
+        {
+          "lead": {
+            "name": "രമ്യ സതീഷ്",
+            "num": "1",
+            "party": "NDA",
+            "votes": 367
+          },
+          "trail": {
+            "name": "സജീനാ ബീവി എ",
+            "num": "3",
+            "party": "KANIYAPYURAM",
+            "votes": 227
+          }
+        },
+        {
+          "lead": {
+            "name": "മാലിക് ജബ്ബാർ",
+            "num": "4",
+            "party": "LDF",
+            "votes": 460
+          },
+          "trail": {
+            "name": "പൊടിമോൻ അഷറഫ്",
+            "num": "5",
+            "party": "ALUMMOODU",
+            "votes": 221
+          }
+        },
+        {
+          "lead": {
+            "name": "മണിമധു",
+            "num": "2",
+            "party": "LDF",
+            "votes": 662
+          },
+          "trail": {
+            "name": "ബീന സുബാഷ്",
+            "num": "1",
+            "party": "THEKKEVILA",
+            "votes": 270
+          }
+        },
+        {
+          "lead": {
+            "name": "ബുഷ്റാ നവാസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 453
+          },
+          "trail": {
+            "name": "സജീറാബീവി എസ്",
+            "num": "3",
+            "party": "VALIYA VEEDU",
+            "votes": 282
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ .മാജിദ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 400
+          },
+          "trail": {
+            "name": "എസ് .രമാദേവി (വാവ )",
+            "num": "3",
+            "party": "PALLIPURAM",
+            "votes": 199
+          }
+        },
+        {
+          "lead": {
+            "name": "എ .കൃഷ്ണന്‍ കുട്ടി (ബാബു)",
+            "num": "2",
+            "party": "UDF",
+            "votes": 420
+          },
+          "trail": {
+            "name": "എ .അഫ്സൽ",
+            "num": "1",
+            "party": "KANDAL",
+            "votes": 355
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി മുരളി",
+            "num": "5",
+            "party": "UDF",
+            "votes": 325
+          },
+          "trail": {
+            "name": "വിജയ കുമാർ കെ",
+            "num": "6",
+            "party": "SREEPADAM",
+            "votes": 290
+          }
+        },
+        {
+          "lead": {
+            "name": "സണ്ണികുമാർ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 400
+          },
+          "trail": {
+            "name": "സി .കൃഷ്ണന്‍",
+            "num": "1",
+            "party": "MAITHANI",
+            "votes": 394
+          }
+        }
+      ]
+    }
+  ],
+  "urban_bodies": [
+    {
+      "body": "ATTINGAL   ",
+      "code": "M01003",
+      "data": [
+        {
+          "lead": {
+            "name": "ലൈലാബീവി എസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 282
+          },
+          "place": "KOCHUVILA",
+          "trail": {
+            "name": "എച്ച് സുമയ്യ",
+            "num": "5",
+            "votes": 210
+          }
+        },
+        {
+          "lead": {
+            "name": "എ നജാം",
+            "num": "2",
+            "party": "LDF",
+            "votes": 287
+          },
+          "place": "ALAMCODE",
+          "trail": {
+            "name": "നസീര്‍ എ എം",
+            "num": "3",
+            "votes": 236
+          }
+        },
+        {
+          "lead": {
+            "name": "ദീപ രാജേഷ്",
+            "num": "2",
+            "party": "NDA",
+            "votes": 304
+          },
+          "place": "POOVANPARA",
+          "trail": {
+            "name": "രജി എസ്",
+            "num": "3",
+            "votes": 248
+          }
+        },
+        {
+          "lead": {
+            "name": "ശാന്ത കുമാരി",
+            "num": "3",
+            "party": "NDA",
+            "votes": 307
+          },
+          "place": "L M S",
+          "trail": {
+            "name": "ചിത്ര എൽ ആർ (സോണി)",
+            "num": "1",
+            "votes": 226
+          }
+        },
+        {
+          "lead": {
+            "name": "ജീവൻലാൽ സി എസ്",
+            "num": "2",
+            "party": "NDA",
+            "votes": 290
+          },
+          "place": "KARICHIYIL",
+          "trail": {
+            "name": "ജയറാം പി",
+            "num": "1",
+            "votes": 280
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ എസ് കുമാരി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 357
+          },
+          "place": "THACHOORKUNNU",
+          "trail": {
+            "name": "തങ്കമണി എസ്‌ (തങ്ക)",
+            "num": "2",
+            "votes": 267
+          }
+        },
+        {
+          "lead": {
+            "name": "അവനവഞ്ചേരി രാജു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 587
+          },
+          "place": "ARATTUKADAVU",
+          "trail": {
+            "name": "ഗീതാകുമാരി റ്റി ആര്‍",
+            "num": "1",
+            "votes": 243
+          }
+        },
+        {
+          "lead": {
+            "name": "അനൂപ് ആർ എസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 311
+          },
+          "place": "AVANAVANCHERI",
+          "trail": {
+            "name": "ജോഷ് ലാല്‍",
+            "num": "2",
+            "votes": 202
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ പി രാജഗോപാലന്‍ പോറ്റി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 369
+          },
+          "place": "GRAMAM",
+          "trail": {
+            "name": "എസ്‌ ശ്രീരംഗന്‍",
+            "num": "3",
+            "votes": 145
+          }
+        },
+        {
+          "lead": {
+            "name": "സുധാകുമാരി കെ എസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 309
+          },
+          "place": "VELAMKONAM",
+          "trail": {
+            "name": "അശ്വതി പി",
+            "num": "1",
+            "votes": 291
+          }
+        },
+        {
+          "lead": {
+            "name": "സുജി എസ്",
+            "num": "3",
+            "party": "NDA",
+            "votes": 350
+          },
+          "place": "KACHERI",
+          "trail": {
+            "name": "കാര്‍ത്തിക എ കെ",
+            "num": "1",
+            "votes": 285
+          }
+        },
+        {
+          "lead": {
+            "name": "സുധര്‍മ്മ",
+            "num": "4",
+            "party": "LDF",
+            "votes": 193
+          },
+          "place": "MANOMOHANA VILASAM",
+          "trail": {
+            "name": "പ്രിയ എസ് എം",
+            "num": "2",
+            "votes": 161
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ ജെ രവികുമാര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 396
+          },
+          "place": "AMBALAMMUKKU",
+          "trail": {
+            "name": "കരമേൽ വിജയൻ (കെ വിജയമോഹനന്‍ നായര്‍)",
+            "num": "2",
+            "votes": 391
+          }
+        },
+        {
+          "lead": {
+            "name": "രമ്യ സുധീർ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 456
+          },
+          "place": "CHITTATTINKARA",
+          "trail": {
+            "name": "ആരിഫാബീവി എ",
+            "num": "1",
+            "votes": 220
+          }
+        },
+        {
+          "lead": {
+            "name": "താഹിര്‍ എം",
+            "num": "4",
+            "party": "LDF",
+            "votes": 283
+          },
+          "place": "VALIYAKUNNU",
+          "trail": {
+            "name": "ഇയ്യാസ് എം",
+            "num": "2",
+            "votes": 227
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീജ ഒ പി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 236
+          },
+          "place": "SEEVELIKKONAM",
+          "trail": {
+            "name": "ജോഷ്​നാ ഭാസി",
+            "num": "1",
+            "votes": 221
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ സതി",
+            "num": "2",
+            "party": "UDF",
+            "votes": 360
+          },
+          "place": "MUNNUMUKKU",
+          "trail": {
+            "name": "സന്ധ്യാറാണി",
+            "num": "3",
+            "votes": 166
+          }
+        },
+        {
+          "lead": {
+            "name": "ശങ്കര്‍ ജി",
+            "num": "3",
+            "party": "UDF",
+            "votes": 245
+          },
+          "place": "ATTAKKULAM",
+          "trail": {
+            "name": "അജികുമാര്‍ എസ്",
+            "num": "1",
+            "votes": 243
+          }
+        },
+        {
+          "lead": {
+            "name": "നിതിൻ വി എസ് (ഉണ്ണിക്കുട്ടൻ)",
+            "num": "3",
+            "party": "LDF",
+            "votes": 278
+          },
+          "place": "PARVATHYPURAM",
+          "trail": {
+            "name": "ആർ  എസ്   കൃഷ്ണകുമാര്‍",
+            "num": "1",
+            "votes": 202
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് സുഖില്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 381
+          },
+          "place": "KANJIRAMKONAM",
+          "trail": {
+            "name": "എൻ  പത്മനാഭന്‍",
+            "num": "1",
+            "votes": 285
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി തുളസീധരന്‍ പിള്ള",
+            "num": "1",
+            "party": "LDF",
+            "votes": 274
+          },
+          "place": "RAMACHAMVILA",
+          "trail": {
+            "name": "ശിവകുമാര്‍",
+            "num": "3",
+            "votes": 222
+          }
+        },
+        {
+          "lead": {
+            "name": "സംഗീതാറാണി വി പി",
+            "num": "3",
+            "party": "NDA",
+            "votes": 272
+          },
+          "place": "CHERUVALLIMUKKU",
+          "trail": {
+            "name": "മഞ്ജു എം എസ്",
+            "num": "1",
+            "votes": 268
+          }
+        },
+        {
+          "lead": {
+            "name": "ഉണ്ണികൃഷ്ണന്‍ പി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 378
+          },
+          "place": "KODUMAN",
+          "trail": {
+            "name": "സന്തോഷ് പി",
+            "num": "3",
+            "votes": 368
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗിരിജ  ടീച്ചർ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 300
+          },
+          "place": "PALACE",
+          "trail": {
+            "name": "സുനിത ശിവകുമാർ",
+            "num": "3",
+            "votes": 235
+          }
+        },
+        {
+          "lead": {
+            "name": "വി മുരളീധരന്‍ നായര്‍",
+            "num": "3",
+            "party": "UDF",
+            "votes": 210
+          },
+          "place": "KUNNATHU",
+          "trail": {
+            "name": "ബിജു റ്റി",
+            "num": "2",
+            "votes": 200
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിനു ജി എസ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 303
+          },
+          "place": "TOWN",
+          "trail": {
+            "name": "സിംല വി",
+            "num": "3",
+            "votes": 247
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് ഷീജ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 448
+          },
+          "place": "PACHAMKULAM",
+          "trail": {
+            "name": "എം ആർ രമ്യ",
+            "num": "1",
+            "votes": 398
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീല എ എസ്",
+            "num": "3",
+            "party": "NDA",
+            "votes": 447
+          },
+          "place": "THOTTAVARAM",
+          "trail": {
+            "name": "കൃപ കെ എസ്",
+            "num": "2",
+            "votes": 317
+          }
+        },
+        {
+          "lead": {
+            "name": "ആർ രാജു",
+            "num": "2",
+            "party": "LDF",
+            "votes": 413
+          },
+          "place": "KOTTIYODE",
+          "trail": {
+            "name": "വിനോദ് ബി",
+            "num": "3",
+            "votes": 289
+          }
+        },
+        {
+          "lead": {
+            "name": "സന്തോഷ്  എസ്",
+            "num": "4",
+            "party": "NDA",
+            "votes": 338
+          },
+          "place": "TOWN HALL",
+          "trail": {
+            "name": "വി വിശ്വംഭരന്‍",
+            "num": "2",
+            "votes": 272
+          }
+        },
+        {
+          "lead": {
+            "name": "രമാദേവി അമ്മ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 352
+          },
+          "place": "MELATTINGAL",
+          "trail": {
+            "name": "അനിത ആർ",
+            "num": "1",
+            "votes": 247
+          }
+        }
+      ]
+    },
+    {
+      "body": "NEDUMANGAD   ",
+      "code": "M01002",
+      "data": [
+        {
+          "lead": {
+            "name": "എം രാജേന്ദ്രന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 525
+          },
+          "place": "KALLUVARAMBU",
+          "trail": {
+            "name": "ഗീതാ വേണു",
+            "num": "2",
+            "votes": 261
+          }
+        },
+        {
+          "lead": {
+            "name": "ബീന എല്‍ എസ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 509
+          },
+          "place": "IRINCHIYAM",
+          "trail": {
+            "name": "ശ്രീകല ബി കെ",
+            "num": "4",
+            "votes": 229
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് സിന്ധു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 613
+          },
+          "place": "KUSARKODE",
+          "trail": {
+            "name": "കവിത കെ",
+            "num": "2",
+            "votes": 233
+          }
+        },
+        {
+          "lead": {
+            "name": "എം പി സജിത",
+            "num": "3",
+            "party": "LDF",
+            "votes": 678
+          },
+          "place": "ULIYOOR",
+          "trail": {
+            "name": "ലേഖാ കുമാരി ഐ",
+            "num": "2",
+            "votes": 343
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി സതീശന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 675
+          },
+          "place": "MANAKODE",
+          "trail": {
+            "name": "രതീഷ്‌ചന്ദ്രന്‍ ആര്‍",
+            "num": "2",
+            "votes": 349
+          }
+        },
+        {
+          "lead": {
+            "name": "വിനോദിനി.എസ്",
+            "num": "2",
+            "party": "NDA",
+            "votes": 345
+          },
+          "place": "NETTA",
+          "trail": {
+            "name": "എം ആര്‍ മീര",
+            "num": "1",
+            "votes": 271
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി ശ്രീലത",
+            "num": "3",
+            "party": "LDF",
+            "votes": 373
+          },
+          "place": "NAGARIKUNNU",
+          "trail": {
+            "name": "ജീന ആര്‍ എസ്",
+            "num": "1",
+            "votes": 218
+          }
+        },
+        {
+          "lead": {
+            "name": "ആദിത്യ വിജയകുമാര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 422
+          },
+          "place": "KACHERI",
+          "trail": {
+            "name": "ലേഖ സുരേഷ്",
+            "num": "3",
+            "votes": 361
+          }
+        },
+        {
+          "lead": {
+            "name": "സിന്ധു കൃഷ്ണകുമാര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 568
+          },
+          "place": "TOWN",
+          "trail": {
+            "name": "ദീപ്തി എം പി",
+            "num": "1",
+            "votes": 291
+          }
+        },
+        {
+          "lead": {
+            "name": "ഒ.ഉഷ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 469
+          },
+          "place": "MUTHAMKONAM",
+          "trail": {
+            "name": "രജനി തുളസീധരന്‍",
+            "num": "3",
+            "votes": 294
+          }
+        },
+        {
+          "lead": {
+            "name": "എ ഷീജ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 622
+          },
+          "place": "KODIPPURAM",
+          "trail": {
+            "name": "ആശ കലേഷ്",
+            "num": "1",
+            "votes": 369
+          }
+        },
+        {
+          "lead": {
+            "name": "പുലിപ്പാറ കൃഷ്ണന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 694
+          },
+          "place": "KOLLAMKAVU",
+          "trail": {
+            "name": "കൊല്ലങ്കാവ് മണിക്കുട്ടന്‍",
+            "num": "3",
+            "votes": 322
+          }
+        },
+        {
+          "lead": {
+            "name": "പി വസന്തകുമാരി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 459
+          },
+          "place": "PULIPPARA",
+          "trail": {
+            "name": "ഗീതകുമാരി",
+            "num": "1",
+            "votes": 197
+          }
+        },
+        {
+          "lead": {
+            "name": "സുമയ്യ  മനോജ്‌",
+            "num": "3",
+            "party": "NDA",
+            "votes": 742
+          },
+          "place": "VANDA",
+          "trail": {
+            "name": "മഹേന്ദ്രന്‍ ആചാരി",
+            "num": "1",
+            "votes": 419
+          }
+        },
+        {
+          "lead": {
+            "name": "സംഗീത രാജേഷ്‌",
+            "num": "3",
+            "party": "NDA",
+            "votes": 572
+          },
+          "place": "MUGHAVOOR",
+          "trail": {
+            "name": "സന്തോഷ് എസ്.",
+            "num": "2",
+            "votes": 381
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി ബിന്ദു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 499
+          },
+          "place": "KORALIYODU",
+          "trail": {
+            "name": "ഇന്ദിര ക്ലെമന്റ്",
+            "num": "1",
+            "votes": 347
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗിരിജാ വിജയന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 368
+          },
+          "place": "PATHINARAM KALLU",
+          "trail": {
+            "name": "എന്‍ ഗീതാദേവി",
+            "num": "2",
+            "votes": 358
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് രാജേന്ദ്രന്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 540
+          },
+          "place": "MANNOORKONAM",
+          "trail": {
+            "name": "രാജിക എസ്",
+            "num": "1",
+            "votes": 376
+          }
+        },
+        {
+          "lead": {
+            "name": "ബി കെ  ശ്രീകല",
+            "num": "3",
+            "party": "LDF",
+            "votes": 516
+          },
+          "place": "VALIYAMALA",
+          "trail": {
+            "name": "ദീപ എല്‍",
+            "num": "1",
+            "votes": 290
+          }
+        },
+        {
+          "lead": {
+            "name": "പി ഹരികേശന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 721
+          },
+          "place": "THARATTA",
+          "trail": {
+            "name": "ഒ എസ് ഷീല",
+            "num": "2",
+            "votes": 417
+          }
+        },
+        {
+          "lead": {
+            "name": "റ്റി ലളിത",
+            "num": "3",
+            "party": "UDF",
+            "votes": 637
+          },
+          "place": "IDAMALA",
+          "trail": {
+            "name": "ബാബുരാജ് ആര്‍",
+            "num": "2",
+            "votes": 341
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ. ഗീതാകുമാരി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 534
+          },
+          "place": "PADAVALLIKONAM",
+          "trail": {
+            "name": "അഞ്ജു പ്രശാന്ത്",
+            "num": "1",
+            "votes": 325
+          }
+        },
+        {
+          "lead": {
+            "name": "എന്‍. ആര്‍. ബൈജു",
+            "num": "2",
+            "party": "LDF",
+            "votes": 527
+          },
+          "place": "KANNARAMKODU",
+          "trail": {
+            "name": "മോഹനന്‍ നായര്‍ ആര്‍",
+            "num": "3",
+            "votes": 365
+          }
+        },
+        {
+          "lead": {
+            "name": "സന്ധ്യ സുമേഷ്",
+            "num": "2",
+            "party": "UDF",
+            "votes": 382
+          },
+          "place": "PARANODE",
+          "trail": {
+            "name": "ബി. വിനിത",
+            "num": "1",
+            "votes": 365
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രിയ പി നായര്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 414
+          },
+          "place": "MANCHA",
+          "trail": {
+            "name": "ജയകുമാരി",
+            "num": "1",
+            "votes": 256
+          }
+        },
+        {
+          "lead": {
+            "name": "എന്‍. ബിജു",
+            "num": "1",
+            "party": "LDF",
+            "votes": 645
+          },
+          "place": "T H S WARD",
+          "trail": {
+            "name": "വിജയേന്ദ്രന്‍ നായര്‍",
+            "num": "3",
+            "votes": 355
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് . റഫീക്ക്",
+            "num": "5",
+            "party": "LDF",
+            "votes": 484
+          },
+          "place": "PERUMALA",
+          "trail": {
+            "name": "പേരുമല ഷിയാസ്",
+            "num": "3",
+            "votes": 292
+          }
+        },
+        {
+          "lead": {
+            "name": "ഫാത്തിമ .എന്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 703
+          },
+          "place": "MARKET",
+          "trail": {
+            "name": "ഷാജി അഹമ്മദ്",
+            "num": "3",
+            "votes": 616
+          }
+        },
+        {
+          "lead": {
+            "name": "സി. എസ്. ശ്രീജ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 554
+          },
+          "place": "PARAMUTTAM",
+          "trail": {
+            "name": "ഗീത",
+            "num": "1",
+            "votes": 434
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് ഷമീര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 717
+          },
+          "place": "PATHAMKALLU",
+          "trail": {
+            "name": "എസ് നൂര്‍ജി",
+            "num": "3",
+            "votes": 607
+          }
+        },
+        {
+          "lead": {
+            "name": "പി. രാജീവ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 703
+          },
+          "place": "KOPPAM",
+          "trail": {
+            "name": "സുധീര്‍ സിദ്ധീഖ്",
+            "num": "3",
+            "votes": 387
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് .ശ്യാമള",
+            "num": "2",
+            "party": "LDF",
+            "votes": 712
+          },
+          "place": "SANNAGAR",
+          "trail": {
+            "name": "ശ്രീലത",
+            "num": "3",
+            "votes": 223
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്. അജിത",
+            "num": "1",
+            "party": "LDF",
+            "votes": 533
+          },
+          "place": "ARASUPARAMBU",
+          "trail": {
+            "name": "ബിന്ദു . എസ്",
+            "num": "3",
+            "votes": 394
+          }
+        },
+        {
+          "lead": {
+            "name": "എം. എസ് .ബിനു",
+            "num": "3",
+            "party": "UDF",
+            "votes": 482
+          },
+          "place": "PERAYATHU KONAM",
+          "trail": {
+            "name": "പ്രേമചന്ദ്രന്‍ . പി. ജി",
+            "num": "2",
+            "votes": 390
+          }
+        },
+        {
+          "lead": {
+            "name": "പരിയാരം എസ് .രവീന്ദ്രന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 531
+          },
+          "place": "PARIYARAM",
+          "trail": {
+            "name": "അജികുമാര്‍ ജെ",
+            "num": "1",
+            "votes": 447
+          }
+        },
+        {
+          "lead": {
+            "name": "അഖിൽ. ബി.എ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 462
+          },
+          "place": "CHIRAKANI",
+          "trail": {
+            "name": "കരുപ്പൂര് സുരേഷ്",
+            "num": "3",
+            "votes": 336
+          }
+        },
+        {
+          "lead": {
+            "name": "പുങ്കുംമൂട് അജി",
+            "num": "1",
+            "party": "UDF",
+            "votes": 642
+          },
+          "place": "PUNKUMMOODU",
+          "trail": {
+            "name": "ഷിബു. ജെ",
+            "num": "3",
+            "votes": 364
+          }
+        },
+        {
+          "lead": {
+            "name": "താരാജയകുമാര്‍",
+            "num": "4",
+            "party": "NDA",
+            "votes": 436
+          },
+          "place": "TOWER WARD",
+          "trail": {
+            "name": "തങ്കി മണികണ്ഠന്‍",
+            "num": "3",
+            "votes": 265
+          }
+        },
+        {
+          "lead": {
+            "name": "ലേഖാ വിക്രമന്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 550
+          },
+          "place": "POOVATHOOR",
+          "trail": {
+            "name": "പൂവത്തൂര്‍ ജയന്‍",
+            "num": "2",
+            "votes": 286
+          }
+        }
+      ]
+    },
+    {
+      "body": "NEYYATTINKARA   ",
+      "code": "M01001",
+      "data": [
+        {
+          "lead": {
+            "name": "ഷാമില.എസ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 530
+          },
+          "place": "AARALUMMOODU",
+          "trail": {
+            "name": "തുഷാര.റ്റി.കെ",
+            "num": "2",
+            "votes": 528
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രസന്നകുമാര്‍",
+            "num": "3",
+            "party": "LDF",
+            "votes": 357
+          },
+          "place": "PUTHANAMBALAM",
+          "trail": {
+            "name": "ജയകുമാര്‍",
+            "num": "1",
+            "votes": 350
+          }
+        },
+        {
+          "lead": {
+            "name": "രാജമോഹനകുമാര്‍ (പി.കെ.രാജമോഹനൻ)",
+            "num": "3",
+            "party": "LDF",
+            "votes": 549
+          },
+          "place": "MOONNUKALLINMOODU",
+          "trail": {
+            "name": "ഗിരീഷ് ചന്ദ്രന്‍",
+            "num": "2",
+            "votes": 346
+          }
+        },
+        {
+          "lead": {
+            "name": "മഹേശന്‍ നായര്‍.എന്‍ (കൂട്ടപ്പന മഹേഷ് )",
+            "num": "2",
+            "party": "NDA",
+            "votes": 552
+          },
+          "place": "KOOTTAPPANA",
+          "trail": {
+            "name": "ലളിത ടീച്ചർ",
+            "num": "3",
+            "votes": 260
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.സി.ജയശീലി",
+            "num": "3",
+            "party": "LDF",
+            "votes": 451
+          },
+          "place": "PALLIVILAKAOM",
+          "trail": {
+            "name": "ഗോപകുമാര്‍ .വി",
+            "num": "2",
+            "votes": 400
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗീത.കെ",
+            "num": "3",
+            "party": "UDF",
+            "votes": 431
+          },
+          "place": "PUNNAYKKADU",
+          "trail": {
+            "name": "അഞ്ചു.എസ്.പി",
+            "num": "1",
+            "votes": 382
+          }
+        },
+        {
+          "lead": {
+            "name": "സ്‍മിത.എസ്",
+            "num": "2",
+            "party": "LDF",
+            "votes": 579
+          },
+          "place": "KALATHUVILA",
+          "trail": {
+            "name": "സുദേഷ്‍ണ.ഇ",
+            "num": "1",
+            "votes": 260
+          }
+        },
+        {
+          "lead": {
+            "name": "അജി.എൻ",
+            "num": "1",
+            "party": "UDF",
+            "votes": 433
+          },
+          "place": "VADAKODE",
+          "trail": {
+            "name": "ഗോപാലകൃഷ്ണന്‍",
+            "num": "2",
+            "votes": 390
+          }
+        },
+        {
+          "lead": {
+            "name": "ജോസ്‍ഫ്രാങ്ക്‍ളിൻ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 655
+          },
+          "place": "MUTTAKKADU",
+          "trail": {
+            "name": "വി.ചന്ദ്രന്‍",
+            "num": "1",
+            "votes": 504
+          }
+        },
+        {
+          "lead": {
+            "name": "സി.പുഷ്‍പലീല",
+            "num": "3",
+            "party": "UDF",
+            "votes": 433
+          },
+          "place": "ELAVANIKKARA",
+          "trail": {
+            "name": "എല്‍സി ഭായി",
+            "num": "2",
+            "votes": 408
+          }
+        },
+        {
+          "lead": {
+            "name": "ശശിധരന്‍ (മാമ്പഴക്കര.സി.ശശി)",
+            "num": "3",
+            "party": "UDF",
+            "votes": 627
+          },
+          "place": "MAMBAZHAKKARA",
+          "trail": {
+            "name": "മോഹന്‍.എം.പി",
+            "num": "2",
+            "votes": 566
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീബ സജു",
+            "num": "2",
+            "party": "UDF",
+            "votes": 475
+          },
+          "place": "MULLARAVILA",
+          "trail": {
+            "name": "സിന്ധു. എസ്",
+            "num": "3",
+            "votes": 438
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി.ഗോപകുമാര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 480
+          },
+          "place": "PERUMPAZHUTHUR",
+          "trail": {
+            "name": "അഡ്വ.രഞ്‍ജിത്ത് ചന്ദ്രന്‍",
+            "num": "4",
+            "votes": 410
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ.സ്വപ്‍നജിത്ത്.എസ്.എസ്",
+            "num": "3",
+            "party": "NDA",
+            "votes": 676
+          },
+          "place": "AALAMPOTTA",
+          "trail": {
+            "name": "സുരേന്ദ്രന്‍",
+            "num": "2",
+            "votes": 442
+          }
+        },
+        {
+          "lead": {
+            "name": "വേണുഗോപാല്‍.എസ്",
+            "num": "5",
+            "party": "NDA",
+            "votes": 374
+          },
+          "place": "PLAVILA",
+          "trail": {
+            "name": "ഷാജി.എസ്.മലയിൽ",
+            "num": "6",
+            "votes": 335
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി.സുകുമാരി",
+            "num": "3",
+            "party": "UDF",
+            "votes": 539
+          },
+          "place": "THOZHUKKAL",
+          "trail": {
+            "name": "മേരിവിജി.ഡി",
+            "num": "2",
+            "votes": 409
+          }
+        },
+        {
+          "lead": {
+            "name": "എൽ.എസ്.ഷീല",
+            "num": "3",
+            "party": "UDF",
+            "votes": 673
+          },
+          "place": "VAZHUTHUR",
+          "trail": {
+            "name": "അനിലകുമാരി",
+            "num": "1",
+            "votes": 663
+          }
+        },
+        {
+          "lead": {
+            "name": "കരോളിന്‍ സ്മിതാദാസ് (കരോളിൻ ജോജിൻ )",
+            "num": "1",
+            "party": "UDF",
+            "votes": 815
+          },
+          "place": "KOLLAVAMVILA",
+          "trail": {
+            "name": "രമ.ബി.റ്റി",
+            "num": "2",
+            "votes": 305
+          }
+        },
+        {
+          "lead": {
+            "name": "സുജിൻ",
+            "num": "2",
+            "party": "LDF",
+            "votes": 648
+          },
+          "place": "THAVARAVILA",
+          "trail": {
+            "name": "സൂര്യാത്‍മജൻ.ബി",
+            "num": "3",
+            "votes": 251
+          }
+        },
+        {
+          "lead": {
+            "name": "പത്മകുമാരി ബാല്‍രാജ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 513
+          },
+          "place": "KULATHAMAL",
+          "trail": {
+            "name": "ആതിര. ആർ.എ",
+            "num": "1",
+            "votes": 293
+          }
+        },
+        {
+          "lead": {
+            "name": "എ.ബി.സജു",
+            "num": "2",
+            "party": "UDF",
+            "votes": 439
+          },
+          "place": "CHAIKKOTTUKONAM",
+          "trail": {
+            "name": "റ്റി.എസ്.സുനില്‍കുമാര്‍",
+            "num": "3",
+            "votes": 366
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിനുകുമാര്‍.ജി",
+            "num": "2",
+            "party": "NDA",
+            "votes": 401
+          },
+          "place": "MARUTHATHUR",
+          "trail": {
+            "name": "എസ്.പുരുഷോത്തമന്‍ നായര്‍",
+            "num": "1",
+            "votes": 367
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി.എസ്. വിന്‍സെന്‍റ്",
+            "num": "3",
+            "party": "UDF",
+            "votes": 761
+          },
+          "place": "IRUMBIL",
+          "trail": {
+            "name": "വിപിന്‍ദാസ് ആര്‍",
+            "num": "2",
+            "votes": 302
+          }
+        },
+        {
+          "lead": {
+            "name": "അജിത ആർ.",
+            "num": "1",
+            "party": "UDF",
+            "votes": 370
+          },
+          "place": "FORT",
+          "trail": {
+            "name": "പ്രവീണ്‍ സി.പി.",
+            "num": "3",
+            "votes": 235
+          }
+        },
+        {
+          "lead": {
+            "name": "പി. എസ്. ലക്ഷ്മി  ടീച്ചർ",
+            "num": "2",
+            "party": "UDF",
+            "votes": 526
+          },
+          "place": "VLANGAMURI",
+          "trail": {
+            "name": "സൗമ്യ പി ആര്‍ തങ്കച്ചി",
+            "num": "3",
+            "votes": 378
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗ്രാമം പ്രവീണ്‍",
+            "num": "2",
+            "party": "UDF",
+            "votes": 741
+          },
+          "place": "KRISHNAPURAM",
+          "trail": {
+            "name": "വി.കേശവന്‍നായര്‍(വി.കേശവന്‍കുട്ടി)",
+            "num": "1",
+            "votes": 368
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷിബുരാജ് കൃഷ്ണ",
+            "num": "4",
+            "party": "NDA",
+            "votes": 491
+          },
+          "place": "RAMESWARAM",
+          "trail": {
+            "name": "ബോബസ് ബി",
+            "num": "1",
+            "votes": 270
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.സുരേഷ്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 726
+          },
+          "place": "NARAYANAPURAM",
+          "trail": {
+            "name": "അമരവിള സുദേവകുമാര്‍",
+            "num": "2",
+            "votes": 443
+          }
+        },
+        {
+          "lead": {
+            "name": "കല ടീച്ചർ",
+            "num": "1",
+            "party": "NDA",
+            "votes": 510
+          },
+          "place": "AMARAVILA",
+          "trail": {
+            "name": "എസ്.ഹസീന",
+            "num": "3",
+            "votes": 193
+          }
+        },
+        {
+          "lead": {
+            "name": "സരളാരത്നം",
+            "num": "3",
+            "party": "UDF",
+            "votes": 426
+          },
+          "place": "PULLAMALA",
+          "trail": {
+            "name": "ജയ",
+            "num": "1",
+            "votes": 268
+          }
+        },
+        {
+          "lead": {
+            "name": "അനിതകുമാരി.എന്‍.കെ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 586
+          },
+          "place": "PIRAYUMMOODU",
+          "trail": {
+            "name": "അഡ്വ. ആർ. സജിമോള്‍",
+            "num": "3",
+            "votes": 311
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്.ദീപ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 539
+          },
+          "place": "OLATHANNI",
+          "trail": {
+            "name": "സുനിതകുമാരി",
+            "num": "3",
+            "votes": 510
+          }
+        },
+        {
+          "lead": {
+            "name": "ഐശ്വര്യ എസ് എ",
+            "num": "1",
+            "party": "LDF",
+            "votes": 394
+          },
+          "place": "CHUNDAVILA",
+          "trail": {
+            "name": "സിന്ധു എ എസ്",
+            "num": "3",
+            "votes": 386
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ കെ ഷിബു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 956
+          },
+          "place": "ATHAZHAMANGALAM",
+          "trail": {
+            "name": "ആർ.ക്രിസ്ബോസ്",
+            "num": "1",
+            "votes": 288
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി.സൗമ്യ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 567
+          },
+          "place": "KAVALAKULAM",
+          "trail": {
+            "name": "ഷൈനി ഡി ആര്‍",
+            "num": "2",
+            "votes": 307
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രിയാസുരേഷ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 549
+          },
+          "place": "PANANGATTUKARI",
+          "trail": {
+            "name": "കണിക",
+            "num": "2",
+            "votes": 323
+          }
+        },
+        {
+          "lead": {
+            "name": "അമ്മിണിക്കുട്ടി കെ.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 299
+          },
+          "place": "NILAMEL",
+          "trail": {
+            "name": "ലേഖ ആർ.",
+            "num": "3",
+            "votes": 239
+          }
+        },
+        {
+          "lead": {
+            "name": "മിനിമോള്‍ എസ് എല്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 637
+          },
+          "place": "MANALOOR",
+          "trail": {
+            "name": "മില്‍ബാ പ്രസ പി ജി",
+            "num": "2",
+            "votes": 375
+          }
+        },
+        {
+          "lead": {
+            "name": "സുമ എസ്.",
+            "num": "4",
+            "party": "NDA",
+            "votes": 535
+          },
+          "place": "OORUTTUKAALA",
+          "trail": {
+            "name": "ചിത്ര  എ ആര്‍",
+            "num": "2",
+            "votes": 379
+          }
+        },
+        {
+          "lead": {
+            "name": "മഞ്ചന്തല സുരേഷ്",
+            "num": "3",
+            "party": "NDA",
+            "votes": 399
+          },
+          "place": "AALUMMOODU",
+          "trail": {
+            "name": "ജയശങ്കര്‍.വി.എസ്സ്",
+            "num": "1",
+            "votes": 356
+          }
+        },
+        {
+          "lead": {
+            "name": "അലിഫാത്തിമ എം.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 671
+          },
+          "place": "TOWN",
+          "trail": {
+            "name": "നദീറ ബി.",
+            "num": "3",
+            "votes": 160
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ.എസ്.പി. സജിന്‍ലാല്‍",
+            "num": "4",
+            "party": "UDF",
+            "votes": 460
+          },
+          "place": "BRAHMAMKODE",
+          "trail": {
+            "name": "എൻ.കെ.ശശി",
+            "num": "3",
+            "votes": 198
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.എസ്.അജിത",
+            "num": "1",
+            "party": "NDA",
+            "votes": 389
+          },
+          "place": "ATHIYANNOOR",
+          "trail": {
+            "name": "വീണാവിശ്വംഭരന്‍",
+            "num": "3",
+            "votes": 231
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.എ.സാദത്ത്",
+            "num": "3",
+            "party": "LDF",
+            "votes": 721
+          },
+          "place": "VAZHIMUKKU",
+          "trail": {
+            "name": "ഹക്കിംഷ എസ്",
+            "num": "5",
+            "votes": 362
+          }
+        }
+      ]
+    },
+    {
+      "body": "THIRUVANANTHAPURAM",
+      "code": "C01001",
+      "data": [
+        {
+          "lead": {
+            "name": "കവിത എല്‍.എസ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 2830
+          },
+          "place": "KAZHAKKUTTOM",
+          "trail": {
+            "name": "സജിത എസ്",
+            "num": "6",
+            "votes": 2074
+          }
+        },
+        {
+          "lead": {
+            "name": "എം.ബിനു",
+            "num": "2",
+            "party": "LDF",
+            "votes": 2405
+          },
+          "place": "CHANTHAVILA",
+          "trail": {
+            "name": "സെല്‍വരാജന്‍ (ഏ.സൊല്‍വരാജന്‍)",
+            "num": "7",
+            "votes": 1989
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി. രമേശന്‍",
+            "num": "5",
+            "party": "LDF",
+            "votes": 3276
+          },
+          "place": "KATTAYIKONAM",
+          "trail": {
+            "name": "കെ.വിജയകുമാരന്‍",
+            "num": "7",
+            "votes": 1490
+          }
+        },
+        {
+          "lead": {
+            "name": "സ്റ്റാന്‍ലി ഡിക്രൂസ്",
+            "num": "7",
+            "party": "LDF",
+            "votes": 2139
+          },
+          "place": "SREEKARIYAM",
+          "trail": {
+            "name": "സുനില്‍ എസ്.എസ് (ചോട്ടു)",
+            "num": "6",
+            "votes": 1850
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്ദു എസ്.ആര്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2194
+          },
+          "place": "CHERUVAKKAL",
+          "trail": {
+            "name": "വി.ആര്‍.സിനി",
+            "num": "5",
+            "votes": 2011
+          }
+        },
+        {
+          "lead": {
+            "name": "ആതിര എൽ എസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 1549
+          },
+          "place": "ULLOOR",
+          "trail": {
+            "name": "ബിന്ദു പി",
+            "num": "3",
+            "votes": 1116
+          }
+        },
+        {
+          "lead": {
+            "name": "എല്‍ എസ് സാജു",
+            "num": "5",
+            "party": "LDF",
+            "votes": 2235
+          },
+          "place": "EDAVACODE",
+          "trail": {
+            "name": "പോങ്ങുംമൂട് വിക്രമന്‍",
+            "num": "4",
+            "votes": 1892
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗായത്രിദേവി",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2981
+          },
+          "place": "CHELLAMANGALAM",
+          "trail": {
+            "name": "ഷീല",
+            "num": "5",
+            "votes": 2893
+          }
+        },
+        {
+          "lead": {
+            "name": "ചെമ്പഴന്തി ഉദയന്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2798
+          },
+          "place": "CHEMPAZHANTHY",
+          "trail": {
+            "name": "അണിയൂര്‍ എം പ്രസന്ന കുമാര്‍",
+            "num": "4",
+            "votes": 2305
+          }
+        },
+        {
+          "lead": {
+            "name": "അര്‍ച്ചന മണികണ്ഠന്‍",
+            "num": "2",
+            "party": "NDA",
+            "votes": 2437
+          },
+          "place": "POWDIKONAM",
+          "trail": {
+            "name": "രാജി എസ്",
+            "num": "5",
+            "votes": 2060
+          }
+        },
+        {
+          "lead": {
+            "name": "ആശാ ബാബു",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2396
+          },
+          "place": "NJANDDORKONAM",
+          "trail": {
+            "name": "മഹിത മധു ജെ എം",
+            "num": "3",
+            "votes": 2367
+          }
+        },
+        {
+          "lead": {
+            "name": "സുരകുമാരി ആര്‍",
+            "num": "4",
+            "party": "OTH",
+            "votes": 1219
+          },
+          "place": "KINAVOOR",
+          "trail": {
+            "name": "ആശാകുമാരി",
+            "num": "1",
+            "votes": 1091
+          }
+        },
+        {
+          "lead": {
+            "name": "വനജ രാജേന്ദ്രബാബു",
+            "num": "4",
+            "party": "UDF",
+            "votes": 1750
+          },
+          "place": "MANNANTHALA",
+          "trail": {
+            "name": "അശ്വതി എസ്",
+            "num": "2",
+            "votes": 1305
+          }
+        },
+        {
+          "lead": {
+            "name": "ജോണ്‍സണ്‍ ജോസഫ്",
+            "num": "1",
+            "party": "UDF",
+            "votes": 1973
+          },
+          "place": "NALANCHIRA",
+          "trail": {
+            "name": "തോമസ് ചെറിയാന്‍",
+            "num": "2",
+            "votes": 1579
+          }
+        },
+        {
+          "lead": {
+            "name": "അഡ്വ. അംശു വാമദേവന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 1812
+          },
+          "place": "KESAVADASAPURAM",
+          "trail": {
+            "name": "ജോര്‍ജ് ലൂയിസ്",
+            "num": "2",
+            "votes": 1451
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡി ആര്‍ അനില്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2658
+          },
+          "place": "MEDICAL COLLEGE",
+          "trail": {
+            "name": "റ്റി ആര്‍ രാജേഷ്",
+            "num": "4",
+            "votes": 1292
+          }
+        },
+        {
+          "lead": {
+            "name": "പി കെ രാജു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 2713
+          },
+          "place": "PATTOM",
+          "trail": {
+            "name": "കെ സന്തോഷ് കുമാര്‍",
+            "num": "6",
+            "votes": 1433
+          }
+        },
+        {
+          "lead": {
+            "name": "റിനോയ് റ്റി പി",
+            "num": "4",
+            "party": "LDF",
+            "votes": 1275
+          },
+          "place": "MUTTADA",
+          "trail": {
+            "name": "രമ്യ രമേഷ് എസ് ആര്‍",
+            "num": "1",
+            "votes": 704
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ് ജയചന്ദ്രന്‍ നായര്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 1804
+          },
+          "place": "KUDAPPANAKUNNU",
+          "trail": {
+            "name": "അനില്‍കുമാര്‍",
+            "num": "1",
+            "votes": 1759
+          }
+        },
+        {
+          "lead": {
+            "name": "എം. എസ് കസ്തൂരി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2280
+          },
+          "place": "PATHIRAPALLI",
+          "trail": {
+            "name": "കുമാരി കൃഷ്ണന്‍ കുട്ടി",
+            "num": "2",
+            "votes": 2116
+          }
+        },
+        {
+          "lead": {
+            "name": "വി മീന ദിനേഷ്",
+            "num": "2",
+            "party": "NDA",
+            "votes": 2100
+          },
+          "place": "CHETTIVILAKAM",
+          "trail": {
+            "name": "വി കെ ലളിതകുമാരി",
+            "num": "3",
+            "votes": 1708
+          }
+        },
+        {
+          "lead": {
+            "name": "മധുസൂദനന്‍ നായര്‍",
+            "num": "3",
+            "party": "NDA",
+            "votes": 1509
+          },
+          "place": "SASTHAMANGALAM",
+          "trail": {
+            "name": "സുരേഷ്​​കുമാര്‍ (ശാസ്തമംഗലം ഗോപന്‍)",
+            "num": "4",
+            "votes": 1188
+          }
+        },
+        {
+          "lead": {
+            "name": "സതികുമാരി",
+            "num": "4",
+            "party": "UDF",
+            "votes": 1140
+          },
+          "place": "KOWDIAR",
+          "trail": {
+            "name": "വത്സലകുമാരി (മന്നി)",
+            "num": "2",
+            "votes": 1139
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്യാം കുമാര്‍",
+            "num": "4",
+            "party": "UDF",
+            "votes": 1161
+          },
+          "place": "KURAVANKONAM",
+          "trail": {
+            "name": "രാജേഷ് കുമാര്‍  ആര്‍",
+            "num": "3",
+            "votes": 878
+          }
+        },
+        {
+          "lead": {
+            "name": "ഡോ. റീന.കെ എസ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 1273
+          },
+          "place": "NANTHANCODE",
+          "trail": {
+            "name": "ഷീലാ രമണി",
+            "num": "3",
+            "votes": 891
+          }
+        },
+        {
+          "lead": {
+            "name": "മേരി പുഷ്പം.എ",
+            "num": "4",
+            "party": "UDF",
+            "votes": 1659
+          },
+          "place": "KUNNUKUZHY",
+          "trail": {
+            "name": "ഒലീന എ.ജി.",
+            "num": "1",
+            "votes": 1190
+          }
+        },
+        {
+          "lead": {
+            "name": "രാജൻ പി",
+            "num": "5",
+            "party": "LDF",
+            "votes": 1385
+          },
+          "place": "PALAYAM",
+          "trail": {
+            "name": "സുധീര്‍രാജ്",
+            "num": "6",
+            "votes": 900
+          }
+        },
+        {
+          "lead": {
+            "name": "മാധവദാസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 1272
+          },
+          "place": "THYCAUD",
+          "trail": {
+            "name": "രമേഷ്​​കുമാര്‍",
+            "num": "2",
+            "votes": 669
+          }
+        },
+        {
+          "lead": {
+            "name": "രാഖി രവികുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 1505
+          },
+          "place": "VAZHUTHACAUD",
+          "trail": {
+            "name": "സുരേഷ്",
+            "num": "2",
+            "votes": 1141
+          }
+        },
+        {
+          "lead": {
+            "name": "സുമി എസ് എസ്",
+            "num": "3",
+            "party": "NDA",
+            "votes": 1831
+          },
+          "place": "KANJIRAMPARA",
+          "trail": {
+            "name": "വസന്തകുമാരി",
+            "num": "2",
+            "votes": 1666
+          }
+        },
+        {
+          "lead": {
+            "name": "പി. ജമീല",
+            "num": "2",
+            "party": "LDF",
+            "votes": 1720
+          },
+          "place": "PEROORKADA",
+          "trail": {
+            "name": "മഞ്ജു",
+            "num": "3",
+            "votes": 1457
+          }
+        },
+        {
+          "lead": {
+            "name": "രാജലക്ഷ്മി",
+            "num": "3",
+            "party": "NDA",
+            "votes": 1919
+          },
+          "place": "THURUTHUMMOOLA",
+          "trail": {
+            "name": "നന്ദ. ബി. എസ്",
+            "num": "2",
+            "votes": 1547
+          }
+        },
+        {
+          "lead": {
+            "name": "നന്ദ ഭാര്‍ഗ്ഗവ്",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2789
+          },
+          "place": "NETTAYAM",
+          "trail": {
+            "name": "രാജിമോള്‍",
+            "num": "4",
+            "votes": 1755
+          }
+        },
+        {
+          "lead": {
+            "name": "രമ",
+            "num": "4",
+            "party": "LDF",
+            "votes": 2282
+          },
+          "place": "KACHANI",
+          "trail": {
+            "name": "ആതിര",
+            "num": "1",
+            "votes": 1356
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹെലന്‍ ജി",
+            "num": "4",
+            "party": "LDF",
+            "votes": 2469
+          },
+          "place": "VAZHOTTUKONAM",
+          "trail": {
+            "name": "ദേവി കാർത്തിക",
+            "num": "2",
+            "votes": 2027
+          }
+        },
+        {
+          "lead": {
+            "name": "പാര്‍വതി ഐ എം",
+            "num": "4",
+            "party": "LDF",
+            "votes": 1881
+          },
+          "place": "VATTIYOORKAVU",
+          "trail": {
+            "name": "അഖില പി എസ്",
+            "num": "1",
+            "votes": 1715
+          }
+        },
+        {
+          "lead": {
+            "name": "പത്മ",
+            "num": "2",
+            "party": "NDA",
+            "votes": 2216
+          },
+          "place": "KODUNGANOOR",
+          "trail": {
+            "name": "ആന്‍സി വര്‍ഗീസ്",
+            "num": "1",
+            "votes": 1711
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗിരികുമാര്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 1896
+          },
+          "place": "P T P NAGAR",
+          "trail": {
+            "name": "ജി  ഹാപ്പികുമാര്‍",
+            "num": "5",
+            "votes": 1691
+          }
+        },
+        {
+          "lead": {
+            "name": "പത്മലേഖ",
+            "num": "1",
+            "party": "NDA",
+            "votes": 1550
+          },
+          "place": "PANGODU",
+          "trail": {
+            "name": "ശരണ്യ എസ് നായര്‍",
+            "num": "2",
+            "votes": 1323
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ. അനില്‍ കുമാര്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2241
+          },
+          "place": "THIRUMALA",
+          "trail": {
+            "name": "ശിവജി ആര്‍ പി",
+            "num": "5",
+            "votes": 1958
+          }
+        },
+        {
+          "lead": {
+            "name": "ദേവിമ",
+            "num": "2",
+            "party": "NDA",
+            "votes": 1893
+          },
+          "place": "VALIYAVILA",
+          "trail": {
+            "name": "എസ്. മഞ്ജു",
+            "num": "4",
+            "votes": 1782
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.വി .രാജേഷ്",
+            "num": "5",
+            "party": "NDA",
+            "votes": 2539
+          },
+          "place": "POOJAPURA",
+          "trail": {
+            "name": "കെ. എസ്. വിനു",
+            "num": "6",
+            "votes": 1486
+          }
+        },
+        {
+          "lead": {
+            "name": "കൃഷ്ണകുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 1626
+          },
+          "place": "VALIYASALA",
+          "trail": {
+            "name": "രാജന്‍",
+            "num": "7",
+            "votes": 1569
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീജ മധുസൂദനന്‍ നായര്‍",
+            "num": "4",
+            "party": "NDA",
+            "votes": 1651
+          },
+          "place": "JAGATHY",
+          "trail": {
+            "name": "വിദ്യാമോഹന്‍ എം എ",
+            "num": "2",
+            "votes": 1377
+          }
+        },
+        {
+          "lead": {
+            "name": "മഞ്ജു",
+            "num": "3",
+            "party": "NDA",
+            "votes": 2298
+          },
+          "place": "KARAMANA",
+          "trail": {
+            "name": "ഗീത എന്‍",
+            "num": "1",
+            "votes": 1535
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്ദു മേനോന്‍ എല്‍ ആര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2060
+          },
+          "place": "ARANNOOR",
+          "trail": {
+            "name": "കുമാരി ശോഭ വി",
+            "num": "3",
+            "votes": 1505
+          }
+        },
+        {
+          "lead": {
+            "name": "ആരൃ രാജേന്ദ്രൻ എസ്",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2872
+          },
+          "place": "MUDAVANMUGHAL",
+          "trail": {
+            "name": "ശ്രീകല",
+            "num": "4",
+            "votes": 2323
+          }
+        },
+        {
+          "lead": {
+            "name": "ജയലക്ഷ്മി പി എസ്",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2324
+          },
+          "place": "THRIKANNAPURAM",
+          "trail": {
+            "name": "പ്രിയമോള്‍ വി വി",
+            "num": "2",
+            "votes": 1893
+          }
+        },
+        {
+          "lead": {
+            "name": "ദീപിക യു.",
+            "num": "2",
+            "party": "NDA",
+            "votes": 1835
+          },
+          "place": "NEMOM",
+          "trail": {
+            "name": "അശ്വതി പ്രസാദ്",
+            "num": "1",
+            "votes": 1819
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗോപകുമാർ",
+            "num": "1",
+            "party": "NDA",
+            "votes": 2231
+          },
+          "place": "PONNUMANGALAM",
+          "trail": {
+            "name": "സഫീറാബീഗം എസ്",
+            "num": "4",
+            "votes": 1927
+          }
+        },
+        {
+          "lead": {
+            "name": "മഞ്ജു. പി.വി",
+            "num": "2",
+            "party": "NDA",
+            "votes": 2833
+          },
+          "place": "PUNNAKKA MUGHAL",
+          "trail": {
+            "name": "രേണുകാകുമാരി. എസ്സ്",
+            "num": "3",
+            "votes": 2233
+          }
+        },
+        {
+          "lead": {
+            "name": "ആശാ നാഥ്.ജി.എസ്",
+            "num": "2",
+            "party": "NDA",
+            "votes": 3310
+          },
+          "place": "PAPPANAMCODE",
+          "trail": {
+            "name": "മായ. എന്‍.എസ്",
+            "num": "4",
+            "votes": 2298
+          }
+        },
+        {
+          "lead": {
+            "name": "സൗമ്യ. എല്‍",
+            "num": "3",
+            "party": "NDA",
+            "votes": 2245
+          },
+          "place": "ESTATE",
+          "trail": {
+            "name": "പത്മകുമാരി. ആര്‍",
+            "num": "1",
+            "votes": 1966
+          }
+        },
+        {
+          "lead": {
+            "name": "അജിത്ത് കുമാര്‍",
+            "num": "1",
+            "party": "NDA",
+            "votes": 3626
+          },
+          "place": "NEDUNKADU",
+          "trail": {
+            "name": "പുഷ്പലത",
+            "num": "3",
+            "votes": 3442
+          }
+        },
+        {
+          "lead": {
+            "name": "വി. ശിവകുമാര്‍",
+            "num": "6",
+            "party": "NDA",
+            "votes": 1623
+          },
+          "place": "KALADI",
+          "trail": {
+            "name": "എം. രാജപ്പന്‍ നായര്‍",
+            "num": "1",
+            "votes": 1600
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീദേവി. എസ്. കെ",
+            "num": "3",
+            "party": "NDA",
+            "votes": 3534
+          },
+          "place": "MELAMCODE",
+          "trail": {
+            "name": "അക്ഷയ  വി.  എസ്.",
+            "num": "1",
+            "votes": 2588
+          }
+        },
+        {
+          "lead": {
+            "name": "‍‍ഡി. ശിവന്‍ കുട്ടി",
+            "num": "1",
+            "party": "LDF",
+            "votes": 3223
+          },
+          "place": "PUNCHAKARI",
+          "trail": {
+            "name": "സനില്‍കുമാര്‍",
+            "num": "3",
+            "votes": 2215
+          }
+        },
+        {
+          "lead": {
+            "name": "വി. പ്രമീള",
+            "num": "3",
+            "party": "LDF",
+            "votes": 2523
+          },
+          "place": "PUNKULAM",
+          "trail": {
+            "name": "സരളാദേവി. എസ്",
+            "num": "5",
+            "votes": 1325
+          }
+        },
+        {
+          "lead": {
+            "name": "സിന്ധു",
+            "num": "3",
+            "party": "LDF",
+            "votes": 2138
+          },
+          "place": "VENGANOOR",
+          "trail": {
+            "name": "ഇന്ദുലേഖ എന്‍",
+            "num": "2",
+            "votes": 1782
+          }
+        },
+        {
+          "lead": {
+            "name": "സി. ഓമന",
+            "num": "4",
+            "party": "UDF",
+            "votes": 2206
+          },
+          "place": "MULLOOR",
+          "trail": {
+            "name": "അജിത",
+            "num": "1",
+            "votes": 1416
+          }
+        },
+        {
+          "lead": {
+            "name": "പനിയടിമ",
+            "num": "4",
+            "party": "OTH",
+            "votes": 2695
+          },
+          "place": "KOTTAPURAM",
+          "trail": {
+            "name": "നെല്‍സണ്‍",
+            "num": "2",
+            "votes": 1757
+          }
+        },
+        {
+          "lead": {
+            "name": "സമീറ എസ് മിഹദാദ്",
+            "num": "4",
+            "party": "LDF",
+            "votes": 1542
+          },
+          "place": "VIZHINJAM",
+          "trail": {
+            "name": "റജീന ബീഗം",
+            "num": "5",
+            "votes": 1324
+          }
+        },
+        {
+          "lead": {
+            "name": "നിസ്സാമുദ്ദീന്‍. എം",
+            "num": "2",
+            "party": "OTH",
+            "votes": 2138
+          },
+          "place": "HARBOUR",
+          "trail": {
+            "name": "യുസഫ്ഖാന്‍. എം. എം.",
+            "num": "5",
+            "votes": 1110
+          }
+        },
+        {
+          "lead": {
+            "name": "മോഹനന്‍",
+            "num": "4",
+            "party": "NDA",
+            "votes": 1629
+          },
+          "place": "VELLAR",
+          "trail": {
+            "name": "പി ബൈജു",
+            "num": "2",
+            "votes": 1062
+          }
+        },
+        {
+          "lead": {
+            "name": "സത്യവതി",
+            "num": "3",
+            "party": "NDA",
+            "votes": 2244
+          },
+          "place": "THRUVALLAM",
+          "trail": {
+            "name": "മീനു എം നായര്‍",
+            "num": "2",
+            "votes": 2164
+          }
+        },
+        {
+          "lead": {
+            "name": "മേരി ജിപ്സി",
+            "num": "5",
+            "party": "OTH",
+            "votes": 1168
+          },
+          "place": "PUNTHURA",
+          "trail": {
+            "name": "ശ്രുതിമോള്‍ എക്സ്",
+            "num": "7",
+            "votes": 1094
+          }
+        },
+        {
+          "lead": {
+            "name": "വി.എസ്. സുലോചനന്‍",
+            "num": "7",
+            "party": "LDF",
+            "votes": 2084
+          },
+          "place": "AMBALATHARA",
+          "trail": {
+            "name": "ബീന. ആര്‍. സി",
+            "num": "2",
+            "votes": 1900
+          }
+        },
+        {
+          "lead": {
+            "name": "വിജയകുമാരി. വി",
+            "num": "2",
+            "party": "LDF",
+            "votes": 1912
+          },
+          "place": "KAMALESWARAM",
+          "trail": {
+            "name": "ശാന്തിദാസ്.വി",
+            "num": "3",
+            "votes": 1764
+          }
+        },
+        {
+          "lead": {
+            "name": "സജുലാല്‍",
+            "num": "5",
+            "party": "LDF",
+            "votes": 1749
+          },
+          "place": "KALIPPANKULAM",
+          "trail": {
+            "name": "ആതിര. ജെ. ആര്‍",
+            "num": "1",
+            "votes": 1126
+          }
+        },
+        {
+          "lead": {
+            "name": "ആര്‍. ഉണ്ണികൃഷ്ണൻ നായര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2560
+          },
+          "place": "ATTUKAL",
+          "trail": {
+            "name": "സുനില്‍ കുമാര്‍",
+            "num": "7",
+            "votes": 2155
+          }
+        },
+        {
+          "lead": {
+            "name": "സിമി റാണി",
+            "num": "7",
+            "party": "NDA",
+            "votes": 2117
+          },
+          "place": "CHALAI",
+          "trail": {
+            "name": "ഇ.കെ. രാജലക്ഷ്മി",
+            "num": "3",
+            "votes": 1673
+          }
+        },
+        {
+          "lead": {
+            "name": "സുരേഷ്",
+            "num": "5",
+            "party": "NDA",
+            "votes": 1805
+          },
+          "place": "MANACAUD",
+          "trail": {
+            "name": "കമല്‍ റോയ്",
+            "num": "1",
+            "votes": 1657
+          }
+        },
+        {
+          "lead": {
+            "name": "മോഹനന്‍ നായര്‍",
+            "num": "5",
+            "party": "NDA",
+            "votes": 2001
+          },
+          "place": "KURYATHI",
+          "trail": {
+            "name": "രാജേഷ്",
+            "num": "6",
+            "votes": 1285
+          }
+        },
+        {
+          "lead": {
+            "name": "സലീം",
+            "num": "11",
+            "party": "LDF",
+            "votes": 2094
+          },
+          "place": "PUTHENPALLI",
+          "trail": {
+            "name": "അനസ് ജെ. കെ",
+            "num": "3",
+            "votes": 1463
+          }
+        },
+        {
+          "lead": {
+            "name": "മുഹമ്മദ് ബഷീര്‍",
+            "num": "6",
+            "party": "LDF",
+            "votes": 1488
+          },
+          "place": "MANIKYA VILAKAM",
+          "trail": {
+            "name": "ജോണ്‍ മാത്യു",
+            "num": "2",
+            "votes": 1224
+          }
+        },
+        {
+          "lead": {
+            "name": "സുധീര്‍",
+            "num": "11",
+            "party": "LDF",
+            "votes": 1305
+          },
+          "place": "BEEMA PALLI EAST",
+          "trail": {
+            "name": "മുഹമ്മദ് മഷ്ഹൂദ്",
+            "num": "7",
+            "votes": 1207
+          }
+        },
+        {
+          "lead": {
+            "name": "മിലാനി",
+            "num": "3",
+            "party": "UDF",
+            "votes": 1710
+          },
+          "place": "BEEMA PALLI",
+          "trail": {
+            "name": "ഷമീറാ ബീവി എ കെ",
+            "num": "7",
+            "votes": 1579
+          }
+        },
+        {
+          "lead": {
+            "name": "രാജേന്ദ്രന്‍",
+            "num": "5",
+            "party": "LDF",
+            "votes": 2995
+          },
+          "place": "MUTTATHARA",
+          "trail": {
+            "name": "അനില്‍ കുമാര്‍",
+            "num": "2",
+            "votes": 2118
+          }
+        },
+        {
+          "lead": {
+            "name": "വിജയകുമാര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 1459
+          },
+          "place": "SREEVARAHAM",
+          "trail": {
+            "name": "മിനി ആര്‍",
+            "num": "2",
+            "votes": 1257
+          }
+        },
+        {
+          "lead": {
+            "name": "ജാനകി അമ്മാള്‍",
+            "num": "3",
+            "party": "OTH",
+            "votes": 1724
+          },
+          "place": "FORT",
+          "trail": {
+            "name": "ഉദയലക്ഷ്മി",
+            "num": "1",
+            "votes": 654
+          }
+        },
+        {
+          "lead": {
+            "name": "ഹരികുമാ൪ സി",
+            "num": "6",
+            "party": "LDF",
+            "votes": 1728
+          },
+          "place": "THAMPANOOR",
+          "trail": {
+            "name": "അനിത",
+            "num": "1",
+            "votes": 1395
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗായത്രി എസ് നായര്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 1951
+          },
+          "place": "VANCHIYOOR",
+          "trail": {
+            "name": "ജയലക്ഷ്മി",
+            "num": "4",
+            "votes": 1725
+          }
+        },
+        {
+          "lead": {
+            "name": "രാജേന്ദ്രന്‍ നായര്‍",
+            "num": "2",
+            "party": "NDA",
+            "votes": 1885
+          },
+          "place": "SREEKANTESWARAM",
+          "trail": {
+            "name": "ശിവകുമാർ",
+            "num": "3",
+            "votes": 1034
+          }
+        },
+        {
+          "lead": {
+            "name": "പത്മകുമാര്‍",
+            "num": "1",
+            "party": "UDF",
+            "votes": 1900
+          },
+          "place": "PERUNTHANNI",
+          "trail": {
+            "name": "രതീഷ് കൃഷ്ണൻ",
+            "num": "2",
+            "votes": 1744
+          }
+        },
+        {
+          "lead": {
+            "name": "അശോക് കുമാര്‍",
+            "num": "2",
+            "party": "NDA",
+            "votes": 1985
+          },
+          "place": "PALKULANGARA",
+          "trail": {
+            "name": "വിജയകുമാരി",
+            "num": "5",
+            "votes": 1189
+          }
+        },
+        {
+          "lead": {
+            "name": "ശാന്ത എം",
+            "num": "5",
+            "party": "LDF",
+            "votes": 1842
+          },
+          "place": "CHAKKA",
+          "trail": {
+            "name": "രാഖി എസ്",
+            "num": "1",
+            "votes": 1420
+          }
+        },
+        {
+          "lead": {
+            "name": "അയറിന്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2681
+          },
+          "place": "VALIYATHURA",
+          "trail": {
+            "name": "കെന്നഡി എല്‍",
+            "num": "2",
+            "votes": 2569
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷാജിദ നാസര്‍",
+            "num": "7",
+            "party": "LDF",
+            "votes": 1856
+          },
+          "place": "VALLAKKADAVU",
+          "trail": {
+            "name": "യാസിം",
+            "num": "4",
+            "votes": 1378
+          }
+        },
+        {
+          "lead": {
+            "name": "സെറാഫിന്‍",
+            "num": "6",
+            "party": "UDF",
+            "votes": 1951
+          },
+          "place": "SANGHUMUGHAM",
+          "trail": {
+            "name": "ജെസ്പിന്‍ സെല്‍വദാസ്",
+            "num": "2",
+            "votes": 1787
+          }
+        },
+        {
+          "lead": {
+            "name": "സാബു ജോസ്",
+            "num": "7",
+            "party": "LDF",
+            "votes": 2524
+          },
+          "place": "VETTUKADU",
+          "trail": {
+            "name": "ജ്യോതി ആന്‍ഡ്രു",
+            "num": "2",
+            "votes": 1526
+          }
+        },
+        {
+          "lead": {
+            "name": "കുമാരൻ നായർ",
+            "num": "2",
+            "party": "NDA",
+            "votes": 2488
+          },
+          "place": "KARIKKAKAM",
+          "trail": {
+            "name": "ശ്രീകുമാരൻ നായർ കെ",
+            "num": "4",
+            "votes": 2372
+          }
+        },
+        {
+          "lead": {
+            "name": "ഗോപകുമാര്‍",
+            "num": "4",
+            "party": "LDF",
+            "votes": 2244
+          },
+          "place": "KADAKAMPALLY",
+          "trail": {
+            "name": "ജയ രാജിവ്",
+            "num": "5",
+            "votes": 1623
+          }
+        },
+        {
+          "lead": {
+            "name": "സുജാദേവി",
+            "num": "6",
+            "party": "LDF",
+            "votes": 1542
+          },
+          "place": "PETTAH",
+          "trail": {
+            "name": "ആര്യ പ്രവീണ്‍",
+            "num": "1",
+            "votes": 1205
+          }
+        },
+        {
+          "lead": {
+            "name": "ശരണ്യ എസ് എസ്",
+            "num": "5",
+            "party": "LDF",
+            "votes": 1420
+          },
+          "place": "KANNAMMOOLA",
+          "trail": {
+            "name": "സൗമ്യ പി",
+            "num": "6",
+            "votes": 1186
+          }
+        },
+        {
+          "lead": {
+            "name": "അജിത്കുമാര്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2390
+          },
+          "place": "ANAMUGHAM",
+          "trail": {
+            "name": "ബാലു",
+            "num": "3",
+            "votes": 1119
+          }
+        },
+        {
+          "lead": {
+            "name": "സുരേഷ്​​കുമാര്‍ എസ്സ്",
+            "num": "5",
+            "party": "UDF",
+            "votes": 1891
+          },
+          "place": "AAKKULAM",
+          "trail": {
+            "name": "വിഎം ജയകുമാർ",
+            "num": "2",
+            "votes": 1856
+          }
+        },
+        {
+          "lead": {
+            "name": "നാജ",
+            "num": "3",
+            "party": "LDF",
+            "votes": 1420
+          },
+          "place": "KULATHOOR",
+          "trail": {
+            "name": "ദീപാരാജ്",
+            "num": "2",
+            "votes": 989
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രീദേവി. എ",
+            "num": "4",
+            "party": "LDF",
+            "votes": 2051
+          },
+          "place": "AATTIPRA",
+          "trail": {
+            "name": "രാജലക്ഷ്മി വി",
+            "num": "3",
+            "votes": 1853
+          }
+        },
+        {
+          "lead": {
+            "name": "ജിഷ ജോണ്‍",
+            "num": "1",
+            "party": "LDF",
+            "votes": 2843
+          },
+          "place": "POUNDKADAVU",
+          "trail": {
+            "name": "ഷെര്‍ളി പി",
+            "num": "3",
+            "votes": 1969
+          }
+        },
+        {
+          "lead": {
+            "name": "വിക്രമന്‍",
+            "num": "2",
+            "party": "LDF",
+            "votes": 2466
+          },
+          "place": "PALLITHURA",
+          "trail": {
+            "name": "സന്തോഷ്",
+            "num": "5",
+            "votes": 1898
+          }
+        }
+      ]
+    },
+    {
+      "body": "VARKALA  ",
+      "code": "M01004",
+      "data": [
+        {
+          "lead": {
+            "name": "സജിനി.",
+            "num": "3",
+            "party": "LDF",
+            "votes": 467
+          },
+          "place": "VILAKKULAM",
+          "trail": {
+            "name": "ശാന്തകുമാരി.",
+            "num": "1",
+            "votes": 109
+          }
+        },
+        {
+          "lead": {
+            "name": "ജി.ജയചന്ദ്രന്‍ നായര്‍.",
+            "num": "2",
+            "party": "LDF",
+            "votes": 266
+          },
+          "place": "IDAPPARAMBU",
+          "trail": {
+            "name": "ജയശ്രീ.",
+            "num": "3",
+            "votes": 239
+          }
+        },
+        {
+          "lead": {
+            "name": "ജിഗീഷ്.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 285
+          },
+          "place": "JANATHAMUKKU",
+          "trail": {
+            "name": "ഡീന്‍.ആര്‍.",
+            "num": "2",
+            "votes": 229
+          }
+        },
+        {
+          "lead": {
+            "name": "സിന്ധു.",
+            "num": "3",
+            "party": "NDA",
+            "votes": 187
+          },
+          "place": "KARUNILAKODE",
+          "trail": {
+            "name": "സുലേഖ.",
+            "num": "4",
+            "votes": 181
+          }
+        },
+        {
+          "lead": {
+            "name": "ബിന്ദു.",
+            "num": "3",
+            "party": "UDF",
+            "votes": 280
+          },
+          "place": "KALLAZHI",
+          "trail": {
+            "name": "കവിത.",
+            "num": "2",
+            "votes": 185
+          }
+        },
+        {
+          "lead": {
+            "name": "ഇന്ദുലേഖ.",
+            "num": "1",
+            "party": "UDF",
+            "votes": 341
+          },
+          "place": "PULLANNIKODE",
+          "trail": {
+            "name": "ബിന്ദു.",
+            "num": "2",
+            "votes": 307
+          }
+        },
+        {
+          "lead": {
+            "name": "അനീഷ്.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 363
+          },
+          "place": "AYANIKKUZHIVILA",
+          "trail": {
+            "name": "കെ.സി.മോഹനന്‍.",
+            "num": "2",
+            "votes": 264
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രിയ.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 400
+          },
+          "place": "KANNAMBA",
+          "trail": {
+            "name": "സത്യഭായി.",
+            "num": "3",
+            "votes": 266
+          }
+        },
+        {
+          "lead": {
+            "name": "സതീശന്‍.",
+            "num": "5",
+            "party": "LDF",
+            "votes": 433
+          },
+          "place": "NADAYARA",
+          "trail": {
+            "name": "പ്രസാദ്.എസ്.",
+            "num": "4",
+            "votes": 368
+          }
+        },
+        {
+          "lead": {
+            "name": "അശ്വതി.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 279
+          },
+          "place": "KANWASRAMAM",
+          "trail": {
+            "name": "മാജിദ.",
+            "num": "3",
+            "votes": 227
+          }
+        },
+        {
+          "lead": {
+            "name": "വിജി.",
+            "num": "3",
+            "party": "NDA",
+            "votes": 447
+          },
+          "place": "CHALUVILA",
+          "trail": {
+            "name": "പ്രേംലീന.",
+            "num": "2",
+            "votes": 193
+          }
+        },
+        {
+          "lead": {
+            "name": "സിന്ധു വിജയന്‍.",
+            "num": "3",
+            "party": "NDA",
+            "votes": 320
+          },
+          "place": "KALLAMKONAM",
+          "trail": {
+            "name": "ഷീല.",
+            "num": "2",
+            "votes": 316
+          }
+        },
+        {
+          "lead": {
+            "name": "പ്രദീപ് .",
+            "num": "2",
+            "party": "UDF",
+            "votes": 249
+          },
+          "place": "CHERUKUNNAM",
+          "trail": {
+            "name": "ഡി. ഷിബി.",
+            "num": "5",
+            "votes": 241
+          }
+        },
+        {
+          "lead": {
+            "name": "രാഖി.ആര്‍.",
+            "num": "3",
+            "party": "NDA",
+            "votes": 410
+          },
+          "place": "SIVAGIRI",
+          "trail": {
+            "name": "അശ്വനി പ്രസന്നൻ.",
+            "num": "1",
+            "votes": 190
+          }
+        },
+        {
+          "lead": {
+            "name": "കെ.എം.ലാജി.",
+            "num": "5",
+            "party": "LDF",
+            "votes": 214
+          },
+          "place": "TEACHERS COLONY",
+          "trail": {
+            "name": "ബലറാം.വി.",
+            "num": "3",
+            "votes": 203
+          }
+        },
+        {
+          "lead": {
+            "name": "ബീവിജാന്‍.",
+            "num": "2",
+            "party": "LDF",
+            "votes": 287
+          },
+          "place": "RAGHUNATHAPURAM",
+          "trail": {
+            "name": "ഫാത്തിമ.",
+            "num": "1",
+            "votes": 229
+          }
+        },
+        {
+          "lead": {
+            "name": "കുമാരി സുദര്‍ശിനി.",
+            "num": "2",
+            "party": "OTH",
+            "votes": 257
+          },
+          "place": "PUTHENCHANTHA",
+          "trail": {
+            "name": "സിന്ധു .എസ്. നായര്‍.",
+            "num": "4",
+            "votes": 132
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷീന .കെ .ഗോവിന്ദ്.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 281
+          },
+          "place": "THACHANKONAM",
+          "trail": {
+            "name": "സിമി. ആര്‍.",
+            "num": "2",
+            "votes": 255
+          }
+        },
+        {
+          "lead": {
+            "name": "ആമിന.",
+            "num": "1",
+            "party": "OTH",
+            "votes": 277
+          },
+          "place": "RAMANTHALI",
+          "trail": {
+            "name": "ജയന്തി.റ്റി.",
+            "num": "3",
+            "votes": 145
+          }
+        },
+        {
+          "lead": {
+            "name": "ഷംസുദ്ദീന്‍. കെ.",
+            "num": "4",
+            "party": "LDF",
+            "votes": 274
+          },
+          "place": "PANAYIL",
+          "trail": {
+            "name": "നൈസാം ദാവൂദ്.",
+            "num": "2",
+            "votes": 234
+          }
+        },
+        {
+          "lead": {
+            "name": "റുബീന.",
+            "num": "5",
+            "party": "LDF",
+            "votes": 203
+          },
+          "place": "VALLAKKADAVU",
+          "trail": {
+            "name": "ജസീനാ.",
+            "num": "3",
+            "votes": 169
+          }
+        },
+        {
+          "lead": {
+            "name": "ശ്രേയസ്സ്.എന്‍.",
+            "num": "4",
+            "party": "OTH",
+            "votes": 238
+          },
+          "place": "PERUMKULAM",
+          "trail": {
+            "name": "ബി.വിശ്വന്‍.",
+            "num": "3",
+            "votes": 235
+          }
+        },
+        {
+          "lead": {
+            "name": "പി.എം. ബഷീര്‍.",
+            "num": "4",
+            "party": "UDF",
+            "votes": 278
+          },
+          "place": "KOTTUMOOLA",
+          "trail": {
+            "name": "അജുലാല്‍.",
+            "num": "1",
+            "votes": 210
+          }
+        },
+        {
+          "lead": {
+            "name": "സലിം.",
+            "num": "3",
+            "party": "UDF",
+            "votes": 319
+          },
+          "place": "MAITHANAM",
+          "trail": {
+            "name": "എ.ഹുബൈബുള്ള.",
+            "num": "4",
+            "votes": 303
+          }
+        },
+        {
+          "lead": {
+            "name": "നിതിന്‍ നായര്‍.",
+            "num": "3",
+            "party": "LDF",
+            "votes": 331
+          },
+          "place": "MUNCIPAL OFFICE",
+          "trail": {
+            "name": "ഉമ.",
+            "num": "1",
+            "votes": 187
+          }
+        },
+        {
+          "lead": {
+            "name": "ആര്‍.അനില്‍കുമാര്‍.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 297
+          },
+          "place": "HOSPITAL",
+          "trail": {
+            "name": "വി. സുനില്‍.",
+            "num": "2",
+            "votes": 261
+          }
+        },
+        {
+          "lead": {
+            "name": "അനു.കെ.എൽ.",
+            "num": "2",
+            "party": "NDA",
+            "votes": 236
+          },
+          "place": "TEMPLE",
+          "trail": {
+            "name": "അഖില. ജി.എസ്.",
+            "num": "1",
+            "votes": 231
+          }
+        },
+        {
+          "lead": {
+            "name": "അജയകുമാര്‍. സി.",
+            "num": "1",
+            "party": "LDF",
+            "votes": 260
+          },
+          "place": "PAPANASAM",
+          "trail": {
+            "name": "എസ്.സുരേഷ്.",
+            "num": "3",
+            "votes": 166
+          }
+        },
+        {
+          "lead": {
+            "name": "രാഗശ്രീ.",
+            "num": "2",
+            "party": "UDF",
+            "votes": 427
+          },
+          "place": "PARAYIL",
+          "trail": {
+            "name": "പ്രവീത.ആര്‍.എസ്സ്.",
+            "num": "1",
+            "votes": 161
+          }
+        },
+        {
+          "lead": {
+            "name": "രഞ്ജു.ജി.",
+            "num": "2",
+            "party": "LDF",
+            "votes": 290
+          },
+          "place": "MUNDAYIL",
+          "trail": {
+            "name": "അനുശ്രീ.",
+            "num": "1",
+            "votes": 253
+          }
+        },
+        {
+          "lead": {
+            "name": "എൻ.അശോകന്‍.",
+            "num": "2",
+            "party": "UDF",
+            "votes": 266
+          },
+          "place": "JAWAHAR PARK",
+          "trail": {
+            "name": "സുനില്‍കുമാര്‍.",
+            "num": "4",
+            "votes": 212
+          }
+        },
+        {
+          "lead": {
+            "name": "എസ്സ്.ഉണ്ണികൃഷ്ണന്‍.",
+            "num": "1",
+            "party": "NDA",
+            "votes": 352
+          },
+          "place": "PUNNAMOODU",
+          "trail": {
+            "name": "പ്രവീണ്‍.പി.",
+            "num": "2",
+            "votes": 217
+          }
+        },
+        {
+          "lead": {
+            "name": "റിജി.",
+            "num": "3",
+            "party": "LDF",
+            "votes": 266
+          },
+          "place": "KURAKKANNI",
+          "trail": {
+            "name": "സുനില്‍കുമാര്‍.",
+            "num": "2",
+            "votes": 234
+          }
+        }
+      ]
+    }
+  ]
+}
