@@ -68,7 +68,8 @@ defmodule Ke do
   end
 
   def get_districts do
-    ds = HTTPoison.get!(@base_url <> "sv2lpgl.json?_=#{ts()}", headers())
+    url = @base_url <> "sv2lpgl.json?_=#{ts()}"
+    ds = HTTPoison.get!(url, headers(), options())
     json_data = Jason.decode!(ds.body)
 
     Enum.map(json_data["total"], fn [dist | _] -> dist end)
@@ -77,7 +78,7 @@ defmodule Ke do
   def get_gram_panchs_for_dist(dist_code) do
     Logger.debug("Fetching gram_panchayats for dist_code: #{dist_code}")
     url = @base_url <> "dvGramaLead_#{dist_code}.json?_=#{ts()}"
-    dist = HTTPoison.get!(url, headers())
+    dist = HTTPoison.get!(url, headers(), options())
     json_data = Jason.decode!(dist.body)
 
     Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
@@ -86,7 +87,7 @@ defmodule Ke do
   def get_block_panchs_for_dist(dist_code) do
     Logger.debug("Fetching block_panchayats for dist_code: #{dist_code}")
     url = @base_url <> "dvBlockLead_#{dist_code}.json?_=#{ts()}"
-    dist = HTTPoison.get!(url, headers())
+    dist = HTTPoison.get!(url, headers(), options())
     json_data = Jason.decode!(dist.body)
 
     Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
@@ -95,7 +96,7 @@ defmodule Ke do
   def get_dist_panchs_for_dist(dist_code) do
     Logger.debug("Fetching district_panchayats for dist_code: #{dist_code}")
     url = @base_url <> "dvDistLead_#{dist_code}.json?_=#{ts()}"
-    dist = HTTPoison.get!(url, headers())
+    dist = HTTPoison.get!(url, headers(), options())
     json_data = Jason.decode!(dist.body)
 
     Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
@@ -253,6 +254,10 @@ defmodule Ke do
       {"Accept-Encoding", "gzip, deflate, br"},
       {"Cache-Control", "no-cache"}
     ]
+  end
+
+  defp options do
+    [proxy: {:socks5, 'localhost', 5566}]
   end
 
   defp uas do
