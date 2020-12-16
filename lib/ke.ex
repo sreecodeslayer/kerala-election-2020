@@ -7,7 +7,7 @@ defmodule Ke do
     dists = get_districts()
 
     Enum.map(dists, fn d ->
-      district = get_full_district(d)
+      get_full_district(d)
       Logger.info(String.duplicate("==", 25))
     end)
   end
@@ -23,7 +23,7 @@ defmodule Ke do
     all_urbans = get_urbans_for_dist(d)
 
     all_gps =
-      Enum.map(Enum.take(all_gps, 4), fn gp ->
+      Enum.map(all_gps, fn gp ->
         gp = get_gram_panch(gp)
         :timer.sleep(1000)
         gp
