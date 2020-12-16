@@ -80,9 +80,7 @@ defmodule Ke do
     dist = HTTPoison.get!(url, headers())
     json_data = Jason.decode!(dist.body)
 
-    Enum.map(json_data["payload"], fn [gp_code, gp_name | _] ->
-      %{code: gp_code, name: String.upcase(gp_name)}
-    end)
+    Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
   end
 
   def get_block_panchs_for_dist(dist_code) do
@@ -91,9 +89,7 @@ defmodule Ke do
     dist = HTTPoison.get!(url, headers())
     json_data = Jason.decode!(dist.body)
 
-    Enum.map(json_data["payload"], fn [block_code, block_name | _] ->
-      %{code: block_code, name: String.upcase(block_name)}
-    end)
+    Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
   end
 
   def get_dist_panchs_for_dist(dist_code) do
@@ -102,9 +98,7 @@ defmodule Ke do
     dist = HTTPoison.get!(url, headers())
     json_data = Jason.decode!(dist.body)
 
-    Enum.map(json_data["payload"], fn [dist_code, dist_name | _] ->
-      %{code: dist_code, name: String.upcase(dist_name)}
-    end)
+    Enum.map(json_data["payload"], &get_code_name_summary_for_body(&1))
   end
 
   def get_urbans_for_dist(dist_code) do
@@ -113,12 +107,16 @@ defmodule Ke do
     dist = HTTPoison.get!(url, headers())
     json_data = Jason.decode!(dist.body)
 
-    Enum.map(json_data["payload"], fn [dist_code, dist_name | _] ->
-      %{code: dist_code, name: String.upcase(dist_name)}
+    Enum.map(json_data["payload"], fn [urb_code, urb_name | _] = urb ->
+      %{
+        code: urb_code,
+        name: String.upcase(urb_name),
+        summary: get_code_name_summary_for_body(urb)
+      }
     end)
   end
 
-  def get_gram_panch(%{code: gp_code, name: name}) do
+  def get_gram_panch(%{code: gp_code, name: name, summary: summary}) do
     Logger.debug("Fetching ward data for: #{gp_code} - #{name}")
     url = @base_url <> "#{gp_code}_L.json?_=#{ts()}"
     gp = HTTPoison.get!(url, headers())
@@ -127,10 +125,10 @@ defmodule Ke do
 
     data = Enum.map(json_data["payload"], &parse_local_body_data(&1))
 
-    %{body: name, code: gp_code, data: data}
+    %{body: name, code: gp_code, data: data, summary: summary}
   end
 
-  def get_block_panch(%{code: bl_code, name: name}) do
+  def get_block_panch(%{code: bl_code, name: name, summary: summary}) do
     Logger.debug("Fetching block data for: #{bl_code} - #{name}")
     url = @base_url <> "#{bl_code}_L.json?_=#{ts()}"
 
@@ -141,14 +139,20 @@ defmodule Ke do
 
       data = Enum.map(json_data["payload"], &parse_local_body_data(&1))
 
-      %{body: name, code: bl_code, data: data}
+      %{body: name, code: bl_code, data: data, summary: summary}
     else
       Logger.error("Could not fetch due to 403 status code for #{name}")
-      %{body: name, code: bl_code, data: "Could not fetch due to 403 status code"}
+
+      %{
+        body: name,
+        code: bl_code,
+        data: "Could not fetch due to 403 status code",
+        summary: summary
+      }
     end
   end
 
-  def get_urban_body(%{code: ubn_code, name: name}) do
+  def get_urban_body(%{code: ubn_code, name: name, summary: summary}) do
     Logger.debug("Fetching urban data for: #{ubn_code} - #{name}")
     url = @base_url <> "#{ubn_code}_L.json?_=#{ts()}"
 
@@ -157,89 +161,31 @@ defmodule Ke do
     unless block.status_code == 403 do
       json_data = Jason.decode!(block.body)
 
-      data =
-        Enum.map(json_data["payload"], fn json ->
-          # Leading candidate
-          w_l_party = Enum.at(json, 1)
+      data = Enum.map(json_data["payload"], &parse_local_body_data(&1))
 
-          w_l_cn_num = Enum.at(json, 2)
-          w_l_cn_name = Enum.at(String.split(Enum.at(json, 3), "-", trim: true), 1)
-
-          w_l_cn_votes = String.to_integer(Enum.at(json, 4))
-
-          # Trailing candidate
-          place_name = Enum.at(json, 5)
-
-          w_t_cn_num = Enum.at(json, 7)
-          w_t_cn_name = Enum.at(String.split(Enum.at(json, 8), "-", trim: true), 1)
-
-          w_t_cn_votes = String.to_integer(Enum.at(json, 9))
-
-          %{
-            lead: %{
-              num: w_l_cn_num,
-              name: String.trim(w_l_cn_name),
-              votes: w_l_cn_votes,
-              party: w_l_party
-            },
-            trail: %{
-              num: w_t_cn_num,
-              name: String.trim(w_t_cn_name),
-              votes: w_t_cn_votes
-            },
-            place: place_name
-          }
-        end)
-
-      %{body: name, code: ubn_code, data: data}
+      %{body: name, code: ubn_code, data: data, summary: summary}
     else
       Logger.error("Could not fetch due to 403 status code for #{name}")
-      %{body: name, code: ubn_code, data: "Could not fetch due to 403 status code"}
+
+      %{
+        body: name,
+        code: ubn_code,
+        data: "Could not fetch due to 403 status code",
+        summary: summary
+      }
     end
   end
 
-  def get_district_panch(%{code: d_code, name: name}) do
+  def get_district_panch(%{code: d_code, name: name, summary: summary}) do
     Logger.debug("Fetching dist panchayat data for: #{d_code} - #{name}")
     url = @base_url <> "#{d_code}_L.json?_=#{ts()}"
     gp = HTTPoison.get!(url, headers())
 
     json_data = Jason.decode!(gp.body)
 
-    data =
-      Enum.map(json_data["payload"], fn json ->
-        # Leading candidate
-        w_l_party = Enum.at(json, 1)
+    data = Enum.map(json_data["payload"], &parse_local_body_data(&1))
 
-        w_l_cn_num = Enum.at(json, 2)
-        w_l_cn_name = Enum.at(String.split(Enum.at(json, 3), "-", trim: true), 1)
-
-        w_l_cn_votes = String.to_integer(Enum.at(json, 4))
-
-        # Trailing candidate
-        place_name = Enum.at(json, 5)
-
-        w_t_cn_num = Enum.at(json, 7)
-        w_t_cn_name = Enum.at(String.split(Enum.at(json, 8), "-", trim: true), 1)
-
-        w_t_cn_votes = String.to_integer(Enum.at(json, 9))
-
-        %{
-          lead: %{
-            num: w_l_cn_num,
-            name: String.trim(w_l_cn_name),
-            votes: w_l_cn_votes,
-            party: w_l_party
-          },
-          trail: %{
-            num: w_t_cn_num,
-            name: String.trim(w_t_cn_name),
-            votes: w_t_cn_votes
-          },
-          place: place_name
-        }
-      end)
-
-    %{body: name, code: d_code, data: data}
+    %{body: name, code: d_code, data: data, summary: summary}
   end
 
   defp parse_local_body_data(json) do
@@ -247,19 +193,21 @@ defmodule Ke do
     w_l_party = Enum.at(json, 1)
 
     w_l_cn_num = Enum.at(json, 2)
-    w_l_cn_name = Enum.at(String.split(Enum.at(json, 3), "-", trim: true), 1)
+    w_l_cn_name = Enum.at(String.split(Enum.at(json, 3) || "", "-", trim: true), 1)
 
-    w_l_cn_votes = String.to_integer(Enum.at(json, 4))
+    w_l_cn_votes = String.to_integer(Enum.at(json, 4) || "0")
 
     # Trailing candidate
-    w_t_party = Enum.at(json, 5)
+    place_name = Enum.at(json, 5)
 
     w_t_cn_num = Enum.at(json, 7)
-    w_t_cn_name = Enum.at(String.split(Enum.at(json, 8), "-", trim: true), 1)
+    w_t_cn_name = Enum.at(String.split(Enum.at(json, 8) || "", "-", trim: true), 1) || ""
 
-    w_t_cn_votes = String.to_integer(Enum.at(json, 9))
+    w_t_cn_votes = String.to_integer(Enum.at(json, 9) || "0")
 
     %{
+      declared?: Enum.at(json, 6) == "Y",
+      place: place_name,
       lead: %{
         num: w_l_cn_num,
         name: String.trim(w_l_cn_name),
@@ -269,9 +217,26 @@ defmodule Ke do
       trail: %{
         num: w_t_cn_num,
         name: String.trim(w_t_cn_name),
-        votes: w_t_cn_votes,
-        party: w_t_party
+        votes: w_t_cn_votes
       }
+    }
+  end
+
+  defp get_code_name_summary_for_body(body) do
+    [code, name, total_wards, _, udf, ldf, bjp_, oth] = body
+
+    s = %{
+      udf: String.to_integer(udf),
+      ldf: String.to_integer(ldf),
+      bjp_: String.to_integer(bjp_),
+      oth: String.to_integer(oth),
+      wards: String.to_integer(total_wards)
+    }
+
+    %{
+      code: code,
+      name: String.upcase(name),
+      summary: s
     }
   end
 
