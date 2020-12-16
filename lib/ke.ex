@@ -106,7 +106,7 @@ defmodule Ke do
   def get_urbans_for_dist(dist_code) do
     Logger.debug("Fetching urban bodies for dist_code: #{dist_code}")
     url = @base_url <> "dvUrbanLead_#{dist_code}.json?_=#{ts()}"
-    dist = HTTPoison.get!(url, headers())
+    dist = HTTPoison.get!(url, headers(), options())
     json_data = Jason.decode!(dist.body)
 
     Enum.map(json_data["payload"], fn [urb_code, urb_name | _] = urb ->
@@ -258,7 +258,11 @@ defmodule Ke do
   end
 
   defp options do
-    [proxy: {:socks5, 'localhost', 5566}]
+    [
+      proxy: {:socks5, 'localhost', 5566},
+      timeout: 15000,
+      recv_timeout: 15000
+    ]
   end
 
   defp uas do
